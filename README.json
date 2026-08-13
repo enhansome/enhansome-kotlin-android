@@ -24,7 +24,7 @@
             "last_commit": "2023-05-19T11:43:25Z",
             "owner": "bufferapp",
             "repo": "android-clean-architecture-boilerplate",
-            "stars": 3679
+            "stars": 3678
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2018-11-13T20:24:58Z",
             "owner": "android",
             "repo": "android-ktx",
-            "stars": 7417
+            "stars": 7418
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-08-21T10:03:22Z",
             "owner": "DanielMartinus",
             "repo": "Konfetti",
-            "stars": 3384
+            "stars": 3385
           }
         },
         {
@@ -486,7 +486,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T22:32:52Z",
+            "last_commit": "2026-08-13T15:22:16Z",
             "owner": "http4k",
             "repo": "http4k",
             "stars": 2784
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-12T17:09:20Z",
+            "last_commit": "2026-08-13T22:10:36Z",
             "owner": "detekt",
             "repo": "detekt",
-            "stars": 7026
+            "stars": 7027
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36760
+            "stars": 36758
           }
         },
         {
@@ -739,7 +739,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T03:41:10Z",
+            "last_commit": "2026-08-13T09:39:59Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
             "stars": 3067
@@ -795,10 +795,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T01:19:39Z",
+            "last_commit": "2026-08-13T12:15:25Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2426
+            "stars": 2427
           }
         },
         {
@@ -812,7 +812,7 @@
             "last_commit": "2026-08-13T03:33:34Z",
             "owner": "ZacSweers",
             "repo": "CatchUp",
-            "stars": 2096
+            "stars": 2097
           }
         },
         {
@@ -1076,7 +1076,7 @@
             "last_commit": "2021-01-22T21:31:15Z",
             "owner": "android",
             "repo": "topeka",
-            "stars": 5098
+            "stars": 5097
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:00.181Z",
+    "last_updated": "2026-08-13T23:07:48.804Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
