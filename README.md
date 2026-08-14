@@ -269,8 +269,8 @@
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,649 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-03 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,784 | 🐛 43 | 🌐 Kotlin | 📅 2026-08-13 - HTTP 工具包 🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,648 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-03 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,784 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-13 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -283,11 +283,11 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,034 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,032 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
-[RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,122 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
+[RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,119 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
 
 ### 图片
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,027 | 🐛 196 | 🌐 MDX | 📅 2026-08-13 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,027 | 🐛 192 | 🌐 MDX | 📅 2026-08-14 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,940 | 🐛 319 | 🌐 Kotlin | 📅 2026-08-13 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,940 | 🐛 319 | 🌐 Kotlin | 📅 2026-08-14 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,758 | 🐛 77 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,761 | 🐛 77 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,009 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,011 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -340,7 +340,7 @@
     </div>
    </details>
 
-* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) ⭐ 3,704 | 🐛 21 | 🌐 Kotlin | 📅 2020-06-30 -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP🔥🔥🔥🔥🔥
+* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) ⭐ 3,703 | 🐛 21 | 🌐 Kotlin | 📅 2020-06-30 -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
        <div style="display:flex;">
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,647 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,646 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,067 | 🐛 124 | 🌐 Kotlin | 📅 2026-08-13 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,070 | 🐛 124 | 🌐 Kotlin | 📅 2026-08-14 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,721 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,427 | 🐛 350 | 🌐 Kotlin | 📅 2026-08-13 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,426 | 🐛 352 | 🌐 Kotlin | 📅 2026-08-14 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,097 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-13 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -549,8 +549,8 @@
 
 [back to top](#readme)
 
-* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,892 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
+* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,893 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
