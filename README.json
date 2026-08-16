@@ -86,7 +86,7 @@
             "last_commit": "2019-12-05T08:59:41Z",
             "owner": "Kotlin",
             "repo": "anko",
-            "stars": 15777
+            "stars": 15776
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2020-04-24T14:12:27Z",
             "owner": "dev-labs-bg",
             "repo": "transitioner",
-            "stars": 2052
+            "stars": 2051
           }
         }
       ],
@@ -441,7 +441,7 @@
             "last_commit": "2022-03-15T02:19:57Z",
             "owner": "agrosner",
             "repo": "DBFlow",
-            "stars": 4848
+            "stars": 4847
           }
         },
         {
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-15T04:49:14Z",
+            "last_commit": "2026-08-16T20:11:39Z",
             "owner": "detekt",
             "repo": "detekt",
             "stars": 7029
@@ -672,7 +672,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36764
+            "stars": 36753
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4012
+            "stars": 4013
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2024-06-26T15:37:04Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Calendar",
-            "stars": 3646
+            "stars": 3648
           }
         },
         {
@@ -739,10 +739,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T19:46:10Z",
+            "last_commit": "2026-08-16T21:17:51Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3071
+            "stars": 3074
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2023-02-05T02:27:06Z",
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
-            "stars": 2721
+            "stars": 2720
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-15T14:09:53Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2426
+            "stars": 2427
           }
         },
         {
@@ -809,10 +809,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T03:33:34Z",
+            "last_commit": "2026-08-16T11:38:17Z",
             "owner": "ZacSweers",
             "repo": "CatchUp",
-            "stars": 2097
+            "stars": 2098
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2024-06-11T09:59:37Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-File-Manager",
-            "stars": 1576
+            "stars": 1577
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:43:08.368Z",
+    "last_updated": "2026-08-16T22:42:05.523Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
