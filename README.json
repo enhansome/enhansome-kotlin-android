@@ -379,7 +379,7 @@
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10014
+            "stars": 10013
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10014
+            "stars": 10013
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2022-03-15T02:19:57Z",
             "owner": "agrosner",
             "repo": "DBFlow",
-            "stars": 4847
+            "stars": 4846
           }
         },
         {
@@ -486,7 +486,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T15:22:16Z",
+            "last_commit": "2026-08-17T11:37:02Z",
             "owner": "http4k",
             "repo": "http4k",
             "stars": 2784
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-16T20:11:39Z",
+            "last_commit": "2026-08-17T06:39:52Z",
             "owner": "detekt",
             "repo": "detekt",
-            "stars": 7029
+            "stars": 7028
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36753
+            "stars": 36754
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4013
+            "stars": 4014
           }
         },
         {
@@ -739,7 +739,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T21:17:51Z",
+            "last_commit": "2026-08-17T13:49:48Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
             "stars": 3074
@@ -896,7 +896,7 @@
             "last_commit": "2024-10-22T12:38:35Z",
             "owner": "blackbbc",
             "repo": "Tucao",
-            "stars": 1025
+            "stars": 1024
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:42:05.523Z",
+    "last_updated": "2026-08-17T22:45:14.883Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
