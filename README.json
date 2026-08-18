@@ -379,7 +379,7 @@
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10013
+            "stars": 10014
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-06-15T08:55:27Z",
             "owner": "InsertKoinIO",
             "repo": "koin",
-            "stars": 10013
+            "stars": 10014
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-08-17T06:39:52Z",
             "owner": "detekt",
             "repo": "detekt",
-            "stars": 7028
+            "stars": 7029
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4014
+            "stars": 4013
           }
         },
         {
@@ -739,10 +739,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T13:49:48Z",
+            "last_commit": "2026-08-18T05:14:41Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3074
+            "stars": 3078
           }
         },
         {
@@ -795,10 +795,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T14:09:53Z",
+            "last_commit": "2026-08-18T01:21:31Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2427
+            "stars": 2428
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2024-06-11T09:57:23Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Camera",
-            "stars": 806
+            "stars": 805
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:45:14.883Z",
+    "last_updated": "2026-08-18T22:45:10.277Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
