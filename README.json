@@ -1,665 +1,711 @@
 {
   "items": [
     {
-      "description": "本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合",
-      "items": [],
-      "title": "关于"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-clean-architecture-boilerplate",
+              "description": "clean 框架模板 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99832180,
+                "language": "Kotlin",
+                "last_commit": "2023-05-19T11:43:25Z",
+                "owner": "bufferapp",
+                "repo": "android-clean-architecture-boilerplate",
+                "stars": 3678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin-Android-Template",
+              "description": "快速生成MVP 架构的项目模板 🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41577702,
+                "language": "Kotlin",
+                "last_commit": "2021-02-05T14:00:56Z",
+                "owner": "nekocode",
+                "repo": "create-android-kotlin-app",
+                "stars": 1584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-android-starter",
+              "description": "快速生成的android项目模板，基于MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64384593,
+                "language": "Kotlin",
+                "last_commit": "2019-08-14T07:45:49Z",
+                "owner": "androidstarters",
+                "repo": "kotlin-android-starter",
+                "stars": 595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KBinding",
+              "description": "使用kotlin实现的Android MVVM框架 🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46047656,
+                "language": "Kotlin",
+                "last_commit": "2017-05-19T08:29:20Z",
+                "owner": "BennyWang",
+                "repo": "KBinding",
+                "stars": 404
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "框架"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "anko",
+              "description": "JetBrains 官方为Android编写的 DSL，旨在令开发 Android 更快更简单 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24186761,
+                "language": "Kotlin",
+                "last_commit": "2019-12-05T08:59:41Z",
+                "owner": "Kotlin",
+                "repo": "anko",
+                "stars": 15776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialDrawerKt",
+              "description": "不使用 XML 创建 Material Design 导航抽屉 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87190725,
+                "language": "Kotlin",
+                "last_commit": "2020-06-19T15:54:14Z",
+                "owner": "zsmb13",
+                "repo": "MaterialDrawerKt",
+                "stars": 515
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-drawable-dsl",
+              "description": "通过 kotlin 构造 drawable 而不是 XML 的 DSL 🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87530414,
+                "language": "Kotlin",
+                "last_commit": "2018-05-28T12:38:46Z",
+                "owner": "infotech-group",
+                "repo": "android-drawable-dsl",
+                "stars": 182
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DSL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-ktx",
+              "description": "google 开源的 Kotlin 扩展插件库，在 Android 框架和 Support Library 上提供相应 API 层，帮助开发者更自然编写 Kotlin 代码 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112380358,
+                "language": null,
+                "last_commit": "2018-11-13T20:24:58Z",
+                "owner": "android",
+                "repo": "android-ktx",
+                "stars": 7417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KAndroid",
+              "description": "轻量级Kotlin 扩展插件库 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32946447,
+                "language": "Kotlin",
+                "last_commit": "2024-08-02T11:56:11Z",
+                "owner": "pawegio",
+                "repo": "KAndroid",
+                "stars": 890
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-koi",
+              "description": "又一个轻量级Kotlin 扩展插件库 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50421113,
+                "language": "Kotlin",
+                "last_commit": "2017-08-25T09:22:36Z",
+                "owner": "mcxiaoke",
+                "repo": "kotlin-koi",
+                "stars": 513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-jetpack",
+              "description": "有用的扩展方法集合 🔥",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43271057,
+                "language": "Kotlin",
+                "last_commit": "2017-10-18T15:58:22Z",
+                "owner": "nsk-mironov",
+                "repo": "kotlin-jetpack",
+                "stars": 180
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "扩展"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Konfetti",
+                  "description": "轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86191112,
+                    "language": "Kotlin",
+                    "last_commit": "2025-08-21T10:03:22Z",
+                    "owner": "DanielMartinus",
+                    "repo": "Konfetti",
+                    "stars": 3385
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "transitioner",
+                  "description": "动态、简单的View场景切换动画🔥🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 113546314,
+                    "language": "Kotlin",
+                    "last_commit": "2020-04-24T14:12:27Z",
+                    "owner": "dev-labs-bg",
+                    "repo": "transitioner",
+                    "stars": 2051
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "动画"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SearchFilter",
+                  "description": "Yalantis出品，必属精品！炫酷 搜索过滤器 实现🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72092790,
+                    "language": "Kotlin",
+                    "last_commit": "2022-09-22T09:33:04Z",
+                    "owner": "Yalantis",
+                    "repo": "SearchFilter",
+                    "stars": 1662
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bubble-Picker",
+                  "description": "简单易用的漂浮球内容选择器🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 84395488,
+                    "language": "Kotlin",
+                    "last_commit": "2021-05-01T00:53:17Z",
+                    "owner": "igalata",
+                    "repo": "Bubble-Picker",
+                    "stars": 1395
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multi-Selection",
+                  "description": "Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71238015,
+                    "language": "Kotlin",
+                    "last_commit": "2022-09-22T08:54:44Z",
+                    "owner": "Yalantis",
+                    "repo": "Multi-Selection",
+                    "stars": 1370
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DateTimeRangePicker",
+                  "description": "日期时间范围选择器🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 76971814,
+                    "language": "Kotlin",
+                    "last_commit": "2025-11-14T02:09:19Z",
+                    "owner": "skedgo",
+                    "repo": "DateTimeRangePicker",
+                    "stars": 502
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "选择/过滤器"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "StickySwitch",
+                  "description": "漂亮的切换开关🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 84812790,
+                    "language": "Kotlin",
+                    "last_commit": "2023-01-18T10:33:10Z",
+                    "owner": "GwonHyeok",
+                    "repo": "StickySwitch",
+                    "stars": 773
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stepper-Touch",
+                  "description": "Material Design设计风格的触摸步进器🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 85476181,
+                    "language": "Kotlin",
+                    "last_commit": "2023-07-31T17:16:15Z",
+                    "owner": "DanielMartinus",
+                    "repo": "Stepper-Touch",
+                    "stars": 688
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "按钮"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "shadow",
+                  "description": "可以替代CardView的自定义阴影 view🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103920670,
+                    "language": "Kotlin",
+                    "last_commit": "2022-07-29T06:12:25Z",
+                    "owner": "loopeer",
+                    "repo": "shadow",
+                    "stars": 1359
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-snowfall",
+                  "description": "完全自定义实现的下雪效果🔥🔥🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 77173879,
+                    "language": "Kotlin",
+                    "last_commit": "2021-06-28T12:24:09Z",
+                    "owner": "JetradarMobile",
+                    "repo": "android-snowfall",
+                    "stars": 1171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DroidArt",
+                  "description": "在图像上键入任意形状的文本🔥🔥",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140836589,
+                    "language": "Kotlin",
+                    "last_commit": "2018-11-19T09:12:11Z",
+                    "owner": "Cleveroad",
+                    "repo": "DroidArt",
+                    "stars": 209
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "特殊效果"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "koin",
+              "description": "简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93515203,
+                "language": "Kotlin",
+                "last_commit": "2026-06-15T08:55:27Z",
+                "owner": "InsertKoinIO",
+                "repo": "koin",
+                "stars": 10012
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "koin",
+              "description": "没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93515203,
+                "language": "Kotlin",
+                "last_commit": "2026-06-15T08:55:27Z",
+                "owner": "InsertKoinIO",
+                "repo": "koin",
+                "stars": 10012
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotterknife",
+              "description": "基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25452970,
+                "language": "Kotlin",
+                "last_commit": "2019-09-12T16:12:45Z",
+                "owner": "JakeWharton",
+                "repo": "kotterknife",
+                "stars": 2205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActivityStarter",
+              "description": "Activity 启动生成器，更简单的方式传递多个参数 🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80822585,
+                "language": "Kotlin",
+                "last_commit": "2019-01-11T11:21:22Z",
+                "owner": "MarcinMoskala",
+                "repo": "ActivityStarter",
+                "stars": 431
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "依赖注入"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DBFlow",
+              "description": "一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24161015,
+                "language": "Kotlin",
+                "last_commit": "2022-03-15T02:19:57Z",
+                "owner": "agrosner",
+                "repo": "DBFlow",
+                "stars": 4846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "requery",
+              "description": "轻量强大的ORM数据库 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46154735,
+                "language": "Java",
+                "last_commit": "2026-02-09T08:58:28Z",
+                "owner": "requery",
+                "repo": "requery",
+                "stars": 3124
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "数据库"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fuel",
+              "description": "最简单的 HTTP 网络库 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36847034,
+                "language": "Kotlin",
+                "last_commit": "2026-08-03T09:16:12Z",
+                "owner": "kittinunf",
+                "repo": "fuel",
+                "stars": 4646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "http4k",
+              "description": "HTTP 工具包 🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86003479,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T11:59:11Z",
+                "owner": "http4k",
+                "repo": "http4k",
+                "stars": 2784
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "网络"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OkLog",
+              "description": "OkHttp的网络日志拦截器 🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43640886,
+                "language": "Kotlin",
+                "last_commit": "2020-03-14T11:53:46Z",
+                "owner": "simonpercic",
+                "repo": "OkLog",
+                "stars": 494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timberkt",
+              "description": "基于Timber的日志库 🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62193369,
+                "language": "Kotlin",
+                "last_commit": "2019-05-09T15:49:44Z",
+                "owner": "ajalt",
+                "repo": "timberkt",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "日志"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "detekt",
+              "description": "静态代码分析工具 🔥🔥🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71729669,
+                "language": "MDX",
+                "last_commit": "2026-08-19T12:16:36Z",
+                "owner": "detekt",
+                "repo": "detekt",
+                "stars": 7030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Time",
+              "description": "类型安全的时间库 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108419228,
+                "language": "Kotlin",
+                "last_commit": "2022-06-16T04:59:16Z",
+                "owner": "kizitonwose",
+                "repo": "Time",
+                "stars": 984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "debug-bottle",
+              "description": "Android 开发调试工具 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66073375,
+                "language": "Kotlin",
+                "last_commit": "2018-03-15T08:14:51Z",
+                "owner": "kiruto",
+                "repo": "debug-bottle",
+                "stars": 845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxPay",
+              "description": "一个集成支付宝微信的支付工具 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103625055,
+                "language": "Kotlin",
+                "last_commit": "2019-09-20T08:57:20Z",
+                "owner": "Cuieney",
+                "repo": "RxPay",
+                "stars": 580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fakeit",
+              "description": "假数据生成库 🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79579060,
+                "language": "Kotlin",
+                "last_commit": "2021-05-10T01:35:37Z",
+                "owner": "thisisqubika",
+                "repo": "fakeit",
+                "stars": 540
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MapMe",
+              "description": "用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98249217,
+                "language": "Kotlin",
+                "last_commit": "2022-03-30T20:42:56Z",
+                "owner": "TradeMe",
+                "repo": "MapMe",
+                "stars": 831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kovenant",
+              "description": "Kotlin 的 Promises 库 🔥🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28311735,
+                "language": "Kotlin",
+                "last_commit": "2017-12-03T07:51:30Z",
+                "owner": "mplatvoet",
+                "repo": "kovenant",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paperparcel",
+              "description": "自动生成Parcelable 代码的注解处理器 🔥🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48286663,
+                "language": "Java",
+                "last_commit": "2019-11-24T14:42:58Z",
+                "owner": "grandstaish",
+                "repo": "paperparcel",
+                "stars": 494
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他"
+        }
+      ],
       "title": "开源库"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "android-clean-architecture-boilerplate",
-          "description": "clean 框架模板 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2023-05-19T11:43:25Z",
-            "owner": "bufferapp",
-            "repo": "android-clean-architecture-boilerplate",
-            "stars": 3678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin-Android-Template",
-          "description": "快速生成MVP 架构的项目模板 🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-02-05T14:00:56Z",
-            "owner": "nekocode",
-            "repo": "create-android-kotlin-app",
-            "stars": 1584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kotlin-android-starter",
-          "description": "快速生成的android项目模板，基于MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2019-08-14T07:45:49Z",
-            "owner": "androidstarters",
-            "repo": "kotlin-android-starter",
-            "stars": 595
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KBinding",
-          "description": "使用kotlin实现的Android MVVM框架 🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2017-05-19T08:29:20Z",
-            "owner": "BennyWang",
-            "repo": "KBinding",
-            "stars": 404
-          }
-        }
-      ],
-      "title": "框架"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "anko",
-          "description": "JetBrains 官方为Android编写的 DSL，旨在令开发 Android 更快更简单 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2019-12-05T08:59:41Z",
-            "owner": "Kotlin",
-            "repo": "anko",
-            "stars": 15776
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MaterialDrawerKt",
-          "description": "不使用 XML 创建 Material Design 导航抽屉 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-06-19T15:54:14Z",
-            "owner": "zsmb13",
-            "repo": "MaterialDrawerKt",
-            "stars": 515
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "android-drawable-dsl",
-          "description": "通过 kotlin 构造 drawable 而不是 XML 的 DSL 🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2018-05-28T12:38:46Z",
-            "owner": "infotech-group",
-            "repo": "android-drawable-dsl",
-            "stars": 182
-          }
-        }
-      ],
-      "title": "DSL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "android-ktx",
-          "description": "google 开源的 Kotlin 扩展插件库，在 Android 框架和 Support Library 上提供相应 API 层，帮助开发者更自然编写 Kotlin 代码 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2018-11-13T20:24:58Z",
-            "owner": "android",
-            "repo": "android-ktx",
-            "stars": 7417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAndroid",
-          "description": "轻量级Kotlin 扩展插件库 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-08-02T11:56:11Z",
-            "owner": "pawegio",
-            "repo": "KAndroid",
-            "stars": 890
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kotlin-koi",
-          "description": "又一个轻量级Kotlin 扩展插件库 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2017-08-25T09:22:36Z",
-            "owner": "mcxiaoke",
-            "repo": "kotlin-koi",
-            "stars": 513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kotlin-jetpack",
-          "description": "有用的扩展方法集合 🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2017-10-18T15:58:22Z",
-            "owner": "nsk-mironov",
-            "repo": "kotlin-jetpack",
-            "stars": 180
-          }
-        }
-      ],
-      "title": "扩展"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "UI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Konfetti",
-          "description": "轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-08-21T10:03:22Z",
-            "owner": "DanielMartinus",
-            "repo": "Konfetti",
-            "stars": 3385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "transitioner",
-          "description": "动态、简单的View场景切换动画🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-04-24T14:12:27Z",
-            "owner": "dev-labs-bg",
-            "repo": "transitioner",
-            "stars": 2051
-          }
-        }
-      ],
-      "title": "动画"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SearchFilter",
-          "description": "Yalantis出品，必属精品！炫酷 搜索过滤器 实现🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-09-22T09:33:04Z",
-            "owner": "Yalantis",
-            "repo": "SearchFilter",
-            "stars": 1662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bubble-Picker",
-          "description": "简单易用的漂浮球内容选择器🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2021-05-01T00:53:17Z",
-            "owner": "igalata",
-            "repo": "Bubble-Picker",
-            "stars": 1395
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Selection",
-          "description": "Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-09-22T08:54:44Z",
-            "owner": "Yalantis",
-            "repo": "Multi-Selection",
-            "stars": 1370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DateTimeRangePicker",
-          "description": "日期时间范围选择器🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2025-11-14T02:09:19Z",
-            "owner": "skedgo",
-            "repo": "DateTimeRangePicker",
-            "stars": 502
-          }
-        }
-      ],
-      "title": "选择/过滤器"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "StickySwitch",
-          "description": "漂亮的切换开关🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-01-18T10:33:10Z",
-            "owner": "GwonHyeok",
-            "repo": "StickySwitch",
-            "stars": 773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stepper-Touch",
-          "description": "Material Design设计风格的触摸步进器🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-07-31T17:16:15Z",
-            "owner": "DanielMartinus",
-            "repo": "Stepper-Touch",
-            "stars": 688
-          }
-        }
-      ],
-      "title": "按钮"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shadow",
-          "description": "可以替代CardView的自定义阴影 view🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-29T06:12:25Z",
-            "owner": "loopeer",
-            "repo": "shadow",
-            "stars": 1359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "android-snowfall",
-          "description": "完全自定义实现的下雪效果🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-06-28T12:24:09Z",
-            "owner": "JetradarMobile",
-            "repo": "android-snowfall",
-            "stars": 1171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DroidArt",
-          "description": "在图像上键入任意形状的文本🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2018-11-19T09:12:11Z",
-            "owner": "Cleveroad",
-            "repo": "DroidArt",
-            "stars": 209
-          }
-        }
-      ],
-      "title": "特殊效果"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "koin",
-          "description": "简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-15T08:55:27Z",
-            "owner": "InsertKoinIO",
-            "repo": "koin",
-            "stars": 10014
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "koin",
-          "description": "没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-15T08:55:27Z",
-            "owner": "InsertKoinIO",
-            "repo": "koin",
-            "stars": 10014
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kotterknife",
-          "description": "基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2019-09-12T16:12:45Z",
-            "owner": "JakeWharton",
-            "repo": "kotterknife",
-            "stars": 2205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActivityStarter",
-          "description": "Activity 启动生成器，更简单的方式传递多个参数 🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2019-01-11T11:21:22Z",
-            "owner": "MarcinMoskala",
-            "repo": "ActivityStarter",
-            "stars": 431
-          }
-        }
-      ],
-      "title": "依赖注入"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DBFlow",
-          "description": "一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-03-15T02:19:57Z",
-            "owner": "agrosner",
-            "repo": "DBFlow",
-            "stars": 4846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "requery",
-          "description": "轻量强大的ORM数据库 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-02-09T08:58:28Z",
-            "owner": "requery",
-            "repo": "requery",
-            "stars": 3124
-          }
-        }
-      ],
-      "title": "数据库"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fuel",
-          "description": "最简单的 HTTP 网络库 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-03T09:16:12Z",
-            "owner": "kittinunf",
-            "repo": "fuel",
-            "stars": 4646
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "http4k",
-          "description": "HTTP 工具包 🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T11:37:02Z",
-            "owner": "http4k",
-            "repo": "http4k",
-            "stars": 2784
-          }
-        }
-      ],
-      "title": "网络"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OkLog",
-          "description": "OkHttp的网络日志拦截器 🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-03-14T11:53:46Z",
-            "owner": "simonpercic",
-            "repo": "OkLog",
-            "stars": 494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "timberkt",
-          "description": "基于Timber的日志库 🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2019-05-09T15:49:44Z",
-            "owner": "ajalt",
-            "repo": "timberkt",
-            "stars": 213
-          }
-        }
-      ],
-      "title": "日志"
-    },
-    {
-      "description": "RxDownload - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥",
-      "items": [],
-      "title": "下载"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "detekt",
-          "description": "静态代码分析工具 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MDX",
-            "last_commit": "2026-08-17T06:39:52Z",
-            "owner": "detekt",
-            "repo": "detekt",
-            "stars": 7029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Time",
-          "description": "类型安全的时间库 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-06-16T04:59:16Z",
-            "owner": "kizitonwose",
-            "repo": "Time",
-            "stars": 984
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "debug-bottle",
-          "description": "Android 开发调试工具 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2018-03-15T08:14:51Z",
-            "owner": "kiruto",
-            "repo": "debug-bottle",
-            "stars": 845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxPay",
-          "description": "一个集成支付宝微信的支付工具 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2019-09-20T08:57:20Z",
-            "owner": "Cuieney",
-            "repo": "RxPay",
-            "stars": 580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fakeit",
-          "description": "假数据生成库 🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-05-10T01:35:37Z",
-            "owner": "thisisqubika",
-            "repo": "fakeit",
-            "stars": 540
-          }
-        }
-      ],
-      "title": "工具"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MapMe",
-          "description": "用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-03-30T20:42:56Z",
-            "owner": "TradeMe",
-            "repo": "MapMe",
-            "stars": 831
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kovenant",
-          "description": "Kotlin 的 Promises 库 🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2017-12-03T07:51:30Z",
-            "owner": "mplatvoet",
-            "repo": "kovenant",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "paperparcel",
-          "description": "自动生成Parcelable 代码的注解处理器 🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-11-24T14:42:58Z",
-            "owner": "grandstaish",
-            "repo": "paperparcel",
-            "stars": 494
-          }
-        }
-      ],
-      "title": "其他"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -668,11 +714,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7190986,
             "language": "Kotlin",
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36754
+            "stars": 36755
           }
         },
         {
@@ -682,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100624553,
             "language": "Kotlin",
             "last_commit": "2024-11-12T18:56:00Z",
             "owner": "chrisbanes",
@@ -696,11 +744,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51870853,
             "language": "Kotlin",
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4013
+            "stars": 4014
           }
         },
         {
@@ -710,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111071830,
             "language": "Kotlin",
             "last_commit": "2020-06-30T04:51:54Z",
             "owner": "git-xuhao",
@@ -724,6 +774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50459012,
             "language": "Kotlin",
             "last_commit": "2024-06-26T15:37:04Z",
             "owner": "SimpleMobileTools",
@@ -738,11 +789,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22558387,
             "language": "Kotlin",
             "last_commit": "2026-08-18T05:14:41Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3078
+            "stars": 3079
           }
         },
         {
@@ -752,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21451240,
             "language": "Kotlin",
             "last_commit": "2023-02-05T02:27:06Z",
             "owner": "TwidereProject",
@@ -766,6 +819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38667206,
             "language": "Kotlin",
             "last_commit": "2020-10-02T14:28:20Z",
             "owner": "antoniolg",
@@ -780,6 +834,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68798776,
             "language": "Kotlin",
             "last_commit": "2022-11-11T18:43:23Z",
             "owner": "fossasia",
@@ -794,8 +849,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T01:21:31Z",
+            "last_commit": "2026-08-19T05:29:17Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2428
@@ -808,6 +864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57029623,
             "language": "Kotlin",
             "last_commit": "2026-08-16T11:38:17Z",
             "owner": "ZacSweers",
@@ -822,6 +879,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32647256,
             "language": "Kotlin",
             "last_commit": "2018-04-10T17:01:11Z",
             "owner": "antoniolg",
@@ -836,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95836274,
             "language": "Kotlin",
             "last_commit": "2018-06-06T08:03:33Z",
             "owner": "LRH1993",
@@ -850,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63188974,
             "language": "Kotlin",
             "last_commit": "2024-06-11T09:59:37Z",
             "owner": "SimpleMobileTools",
@@ -864,6 +924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74459584,
             "language": "Kotlin",
             "last_commit": "2017-08-07T02:12:33Z",
             "owner": "githubwing",
@@ -878,6 +939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115203383,
             "language": "Kotlin",
             "last_commit": "2018-09-27T08:57:38Z",
             "owner": "DroidKaigi",
@@ -892,6 +954,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78953199,
             "language": "Java",
             "last_commit": "2024-10-22T12:38:35Z",
             "owner": "blackbbc",
@@ -906,6 +969,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53592874,
             "language": "Kotlin",
             "last_commit": "2017-07-15T06:52:48Z",
             "owner": "wuapnjie",
@@ -920,6 +984,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64836918,
             "language": "Kotlin",
             "last_commit": "2017-09-22T06:58:12Z",
             "owner": "loopeer",
@@ -934,6 +999,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51663277,
             "language": "Kotlin",
             "last_commit": "2024-06-11T10:01:54Z",
             "owner": "SimpleMobileTools",
@@ -948,6 +1014,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98714221,
             "language": "Kotlin",
             "last_commit": "2017-11-14T07:16:13Z",
             "owner": "armcha",
@@ -962,6 +1029,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50615971,
             "language": "Kotlin",
             "last_commit": "2019-12-02T21:01:09Z",
             "owner": "juanchosaravia",
@@ -976,6 +1044,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56095285,
             "language": "Kotlin",
             "last_commit": "2024-06-11T09:57:23Z",
             "owner": "SimpleMobileTools",
@@ -990,6 +1059,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96067211,
             "language": "Kotlin",
             "last_commit": "2020-10-26T03:17:07Z",
             "owner": "TonnyL",
@@ -1004,6 +1074,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42351696,
             "language": "Kotlin",
             "last_commit": "2018-05-06T11:38:08Z",
             "owner": "nekocode",
@@ -1018,6 +1089,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82531843,
             "language": "Kotlin",
             "last_commit": "2024-07-03T06:22:31Z",
             "owner": "liuzipengWally",
@@ -1032,6 +1104,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5296191,
             "language": "Java",
             "last_commit": "2015-10-06T13:59:13Z",
             "owner": "dodyg",
@@ -1046,24 +1119,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62868187,
             "language": "Kotlin",
             "last_commit": "2017-05-15T04:41:12Z",
             "owner": "TonnyL",
             "repo": "FanfouHandpick",
             "stars": 226
           }
-        },
-        {
-          "node_type": "item",
-          "title": "tachiyomi",
-          "description": "漫画阅读APP🔥🔥🔥🔥🔥",
-          "children": []
         }
       ],
       "title": "完整 app"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1072,6 +1140,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35272152,
             "language": "Kotlin",
             "last_commit": "2021-01-22T21:31:15Z",
             "owner": "android",
@@ -1086,6 +1155,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76473101,
             "language": "Kotlin",
             "last_commit": "2020-03-31T09:27:27Z",
             "owner": "Kotlin",
@@ -1100,6 +1170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27993911,
             "language": "Kotlin",
             "last_commit": "2018-02-12T11:47:46Z",
             "owner": "damianpetla",
@@ -1111,7 +1182,7 @@
       "title": "DEMO"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1120,26 +1191,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98587016,
             "language": "Kotlin",
             "last_commit": "2017-06-06T22:42:32Z",
             "owner": "enbandari",
             "repo": "Kotlin-Tutorials",
             "stars": 32
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin for android developers中文翻译",
-          "description": "🔥🔥🔥🔥🔥",
-          "children": []
         }
       ],
       "title": "资料"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:45:10.277Z",
+    "last_updated": "2026-08-19T12:36:07.644Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
+    "original_repository_id": 122860484,
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
     "enhanced_repository_description": null,
