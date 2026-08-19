@@ -145,7 +145,7 @@
     <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
    </details>
 
-* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) ⭐ 1,370 | 🐛 4 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥
+* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) ⭐ 1,369 | 🐛 4 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -207,7 +207,7 @@
 
 #### 特殊效果
 
-* [shadow](https://github.com/loopeer/shadow) ⭐ 1,359 | 🐛 23 | 🌐 Kotlin | 📅 2022-07-29 - 可以替代CardView的自定义阴影 view🔥🔥🔥🔥
+* [shadow](https://github.com/loopeer/shadow) ⭐ 1,358 | 🐛 23 | 🌐 Kotlin | 📅 2022-07-29 - 可以替代CardView的自定义阴影 view🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -215,7 +215,7 @@
     <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
    </details>
 
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,171 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 - 完全自定义实现的下雪效果🔥🔥🔥🔥
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,170 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 - 完全自定义实现的下雪效果🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -270,7 +270,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,646 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-03 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,784 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-19 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,783 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-19 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,030 | 🐛 195 | 🌐 MDX | 📅 2026-08-19 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,031 | 🐛 193 | 🌐 MDX | 📅 2026-08-19 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,755 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,758 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,014 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,015 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,648 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,649 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,428 | 🐛 352 | 🌐 Kotlin | 📅 2026-08-19 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,428 | 🐛 353 | 🌐 Kotlin | 📅 2026-08-19 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,098 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-16 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -398,7 +398,7 @@
     <img alt="image" src="https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="80%">
    </details>
 
-* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) ⭐ 1,577 | 🐛 106 | 🌐 Kotlin | 📅 2024-06-11 - 文件管理器🔥🔥🔥
+* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) ⭐ 1,578 | 🐛 106 | 🌐 Kotlin | 📅 2024-06-11 - 文件管理器🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -454,7 +454,7 @@
       </div>
     </details>
 
-* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 870 | 🐛 68 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
+* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 871 | 🐛 68 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -473,7 +473,7 @@
 
 * [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) ⭐ 817 | 🐛 2 | 🌐 Kotlin | 📅 2019-12-02 - Reddit客户端 🔥🔥🔥
 
-* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) ⭐ 805 | 🐛 52 | 🌐 Kotlin | 📅 2024-06-11 - 拍照 APP🔥🔥🔥
+* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) ⭐ 806 | 🐛 52 | 🌐 Kotlin | 📅 2024-06-11 - 拍照 APP🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">

@@ -272,7 +272,7 @@
                     "last_commit": "2022-09-22T08:54:44Z",
                     "owner": "Yalantis",
                     "repo": "Multi-Selection",
-                    "stars": 1370
+                    "stars": 1369
                   }
                 },
                 {
@@ -346,7 +346,7 @@
                     "last_commit": "2022-07-29T06:12:25Z",
                     "owner": "loopeer",
                     "repo": "shadow",
-                    "stars": 1359
+                    "stars": 1358
                   }
                 },
                 {
@@ -361,7 +361,7 @@
                     "last_commit": "2021-06-28T12:24:09Z",
                     "owner": "JetradarMobile",
                     "repo": "android-snowfall",
-                    "stars": 1171
+                    "stars": 1170
                   }
                 },
                 {
@@ -519,10 +519,10 @@
                 "archived": false,
                 "id": 86003479,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T11:59:11Z",
+                "last_commit": "2026-08-19T21:36:46Z",
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2784
+                "stars": 2783
               }
             }
           ],
@@ -578,10 +578,10 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-19T12:16:36Z",
+                "last_commit": "2026-08-19T13:03:44Z",
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7030
+                "stars": 7031
               }
             },
             {
@@ -719,7 +719,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36755
+            "stars": 36758
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4014
+            "stars": 4015
           }
         },
         {
@@ -779,7 +779,7 @@
             "last_commit": "2024-06-26T15:37:04Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Calendar",
-            "stars": 3648
+            "stars": 3649
           }
         },
         {
@@ -851,7 +851,7 @@
             "archived": false,
             "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T05:29:17Z",
+            "last_commit": "2026-08-19T20:05:22Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2428
@@ -914,7 +914,7 @@
             "last_commit": "2024-06-11T09:59:37Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-File-Manager",
-            "stars": 1577
+            "stars": 1578
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "last_commit": "2024-06-11T10:01:54Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Notes",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2024-06-11T09:57:23Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Camera",
-            "stars": 805
+            "stars": 806
           }
         },
         {
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:07.644Z",
+    "last_updated": "2026-08-19T22:45:55.967Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_id": 122860484,
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
