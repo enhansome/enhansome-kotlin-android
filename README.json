@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-19T11:43:25Z",
                 "owner": "bufferapp",
                 "repo": "android-clean-architecture-boilerplate",
-                "stars": 3678
+                "stars": 3676
               }
             },
             {
@@ -522,7 +522,7 @@
                 "last_commit": "2026-08-19T21:36:46Z",
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2783
+                "stars": 2782
               }
             }
           ],
@@ -578,10 +578,10 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-19T13:03:44Z",
+                "last_commit": "2026-08-20T13:38:18Z",
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7031
+                "stars": 7032
               }
             },
             {
@@ -749,7 +749,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4015
+            "stars": 4017
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-08-18T05:14:41Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3079
+            "stars": 3082
           }
         },
         {
@@ -851,7 +851,7 @@
             "archived": false,
             "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T20:05:22Z",
+            "last_commit": "2026-08-20T12:18:25Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2428
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:45:55.967Z",
+    "last_updated": "2026-08-20T22:50:02.419Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_id": 122860484,
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
