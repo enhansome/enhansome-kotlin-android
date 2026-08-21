@@ -162,7 +162,7 @@
 
 #### 按钮
 
-* [StickySwitch](https://github.com/GwonHyeok/StickySwitch) ⭐ 773 | 🐛 12 | 🌐 Kotlin | 📅 2023-01-18 - 漂亮的切换开关🔥🔥🔥
+* [StickySwitch](https://github.com/GwonHyeok/StickySwitch) ⭐ 772 | 🐛 12 | 🌐 Kotlin | 📅 2023-01-18 - 漂亮的切换开关🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -270,7 +270,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,646 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-03 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,782 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-19 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,782 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-21 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,032 | 🐛 192 | 🌐 MDX | 📅 2026-08-20 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,032 | 🐛 197 | 🌐 MDX | 📅 2026-08-21 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,941 | 🐛 317 | 🌐 Kotlin | 📅 2026-08-19 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,942 | 🐛 315 | 🌐 Kotlin | 📅 2026-08-21 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,758 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,760 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,017 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,018 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,649 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,650 | 🐛 306 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,9 +357,9 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,082 | 🐛 120 | 🌐 Kotlin | 📅 2026-08-18 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,086 | 🐛 120 | 🌐 Kotlin | 📅 2026-08-21 - 有声电子书阅读器 🔥🔥🔥🔥
 
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
 * [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,670 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,428 | 🐛 352 | 🌐 Kotlin | 📅 2026-08-20 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,429 | 🐛 350 | 🌐 Kotlin | 📅 2026-08-21 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,098 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-16 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
