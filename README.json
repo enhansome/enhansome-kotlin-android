@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-19T11:43:25Z",
                 "owner": "bufferapp",
                 "repo": "android-clean-architecture-boilerplate",
-                "stars": 3676
+                "stars": 3677
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2019-12-05T08:59:41Z",
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15776
+                "stars": 15775
               }
             },
             {
@@ -930,7 +930,7 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-24T22:37:24Z",
+                "last_commit": "2026-08-25T01:17:55Z",
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7031
@@ -1250,7 +1250,7 @@
             "last_commit": "2026-08-24T11:36:54Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2429
+            "stars": 2430
           }
         },
         {
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:32.909Z",
+    "last_updated": "2026-08-25T06:07:00.515Z",
     "original_repository": "adisonhuang/awesome-kotlin-android",
     "original_repository_id": 122860484,
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",

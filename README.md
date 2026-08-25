@@ -1,7 +1,7 @@
 # awesome-kotlin-android with stars
 
-[![Language](https://img.shields.io/badge/awesome-kotlin--android-blue.svg)](https://github.com/adisonhuang/awesome-kotlin-android) ⭐ 1,010 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
-[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/adisonhuang/awesome-kotlin-android/pulls) ⭐ 1,010 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
+[![Language](https://img.shields.io/badge/awesome-kotlin--android-blue.svg)](https://github.com/adisonhuang/awesome-kotlin-android) ⭐ 1,011 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
+[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/adisonhuang/awesome-kotlin-android/pulls) ⭐ 1,011 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
 [![LICENSE](https://img.shields.io/badge/licenses-apache-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 <img src="xamarinkotlin.png" width="200">
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,031 | 🐛 198 | 🌐 MDX | 📅 2026-08-24 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,031 | 🐛 197 | 🌐 MDX | 📅 2026-08-25 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,429 | 🐛 350 | 🌐 Kotlin | 📅 2026-08-24 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,430 | 🐛 350 | 🌐 Kotlin | 📅 2026-08-24 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,099 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-16 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
