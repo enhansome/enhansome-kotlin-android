@@ -456,7 +456,7 @@
                     "last_commit": "2023-05-23T19:10:42Z",
                     "owner": "wching",
                     "repo": "Android-Indefinite-Pager-Indicator",
-                    "stars": 1583
+                    "stars": 1584
                   }
                 }
               ],
@@ -845,7 +845,7 @@
                 "last_commit": "2021-10-28T03:03:13Z",
                 "owner": "ssseasonnn",
                 "repo": "RxDownload",
-                "stars": 4117
+                "stars": 4116
               }
             }
           ],
@@ -930,7 +930,7 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-26T22:14:46Z",
+                "last_commit": "2026-08-27T09:03:01Z",
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7034
@@ -1115,7 +1115,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36768
+            "stars": 36767
           }
         },
         {
@@ -1600,9 +1600,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:22:58.656Z",
-    "original_repository": "adisonhuang/awesome-kotlin-android",
-    "original_repository_id": 122860484,
+    "last_updated": "2026-08-27T11:48:48.443Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 122860484,
+      "language": "Kotlin",
+      "last_commit": "2021-10-19T13:31:15Z",
+      "owner": "adisonhuang",
+      "repo": "awesome-kotlin-android",
+      "stars": 1011
+    },
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
     "enhanced_repository_description": null,
