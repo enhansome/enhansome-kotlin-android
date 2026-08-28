@@ -18,7 +18,8 @@
                 "owner": "bufferapp",
                 "repo": "android-clean-architecture-boilerplate",
                 "stars": 3677
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
                 "stars": 1585
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "androidstarters",
                 "repo": "kotlin-android-starter",
                 "stars": 595
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "BennyWang",
                 "repo": "KBinding",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2019-12-05T08:59:41Z",
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15774
-              }
+                "stars": 15775
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "zsmb13",
                 "repo": "MaterialDrawerKt",
                 "stars": 515
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "infotech-group",
                 "repo": "android-drawable-dsl",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "android",
                 "repo": "android-ktx",
                 "stars": 7416
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "pawegio",
                 "repo": "KAndroid",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "mcxiaoke",
                 "repo": "kotlin-koi",
                 "stars": 513
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "nsk-mironov",
                 "repo": "kotlin-jetpack",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -206,7 +217,8 @@
                     "owner": "anvil-ui",
                     "repo": "anvil",
                     "stars": 1436
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -228,7 +240,8 @@
                     "owner": "ncapdevi",
                     "repo": "FragNav",
                     "stars": 1496
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -250,7 +263,8 @@
                     "owner": "DanielMartinus",
                     "repo": "Konfetti",
                     "stars": 3385
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "dev-labs-bg",
                     "repo": "transitioner",
                     "stars": 2050
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -287,7 +302,8 @@
                     "owner": "Yalantis",
                     "repo": "JellyToolbar",
                     "stars": 1475
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -309,7 +325,8 @@
                     "owner": "Yalantis",
                     "repo": "SearchFilter",
                     "stars": 1662
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -324,7 +341,8 @@
                     "owner": "igalata",
                     "repo": "Bubble-Picker",
                     "stars": 1395
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +357,8 @@
                     "owner": "Yalantis",
                     "repo": "Multi-Selection",
                     "stars": 1369
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -354,7 +373,8 @@
                     "owner": "skedgo",
                     "repo": "DateTimeRangePicker",
                     "stars": 502
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -376,7 +396,8 @@
                     "owner": "GwonHyeok",
                     "repo": "StickySwitch",
                     "stars": 771
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -391,7 +412,8 @@
                     "owner": "DanielMartinus",
                     "repo": "Stepper-Touch",
                     "stars": 688
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -413,7 +435,8 @@
                     "owner": "Ramotion",
                     "repo": "fluid-slider-android",
                     "stars": 1417
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -435,7 +458,8 @@
                     "owner": "TonnyL",
                     "repo": "Light",
                     "stars": 542
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -457,7 +481,8 @@
                     "owner": "wching",
                     "repo": "Android-Indefinite-Pager-Indicator",
                     "stars": 1584
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -479,7 +504,8 @@
                     "owner": "loopeer",
                     "repo": "shadow",
                     "stars": 1358
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -494,7 +520,8 @@
                     "owner": "JetradarMobile",
                     "repo": "android-snowfall",
                     "stars": 1170
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 },
                 {
                   "node_type": "item",
@@ -509,7 +536,8 @@
                     "owner": "Cleveroad",
                     "repo": "DroidArt",
                     "stars": 209
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -531,7 +559,8 @@
                     "owner": "recruit-mp",
                     "repo": "LightCalendarView",
                     "stars": 440
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -553,7 +582,8 @@
                     "owner": "nickbutcher",
                     "repo": "AdaptiveIconPlayground",
                     "stars": 1364
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:07.497Z"
                 }
               ],
               "description": null,
@@ -579,8 +609,9 @@
                 "last_commit": "2026-06-15T08:55:27Z",
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10013
-              }
+                "stars": 10014
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -594,8 +625,9 @@
                 "last_commit": "2026-06-15T08:55:27Z",
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10013
-              }
+                "stars": 10014
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -610,7 +642,8 @@
                 "owner": "JakeWharton",
                 "repo": "kotterknife",
                 "stars": 2205
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -625,7 +658,8 @@
                 "owner": "MarcinMoskala",
                 "repo": "ActivityStarter",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -647,7 +681,8 @@
                 "owner": "nitrico",
                 "repo": "LastAdapter",
                 "stars": 773
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -669,7 +704,8 @@
                 "owner": "chibatching",
                 "repo": "Kotpref",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -691,7 +727,8 @@
                 "owner": "agrosner",
                 "repo": "DBFlow",
                 "stars": 4847
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -706,7 +743,8 @@
                 "owner": "requery",
                 "repo": "requery",
                 "stars": 3124
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -728,7 +766,8 @@
                 "owner": "kittinunf",
                 "repo": "fuel",
                 "stars": 4647
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -739,11 +778,12 @@
                 "archived": false,
                 "id": 86003479,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T09:58:03Z",
+                "last_commit": "2026-08-27T14:23:10Z",
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2783
-              }
+                "stars": 2782
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -765,7 +805,8 @@
                 "owner": "simonpercic",
                 "repo": "OkLog",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -780,7 +821,8 @@
                 "owner": "ajalt",
                 "repo": "timberkt",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -802,7 +844,8 @@
                 "owner": "cbeust",
                 "repo": "klaxon",
                 "stars": 1862
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -824,7 +867,8 @@
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
                 "stars": 7029
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -845,8 +889,9 @@
                 "last_commit": "2021-10-28T03:03:13Z",
                 "owner": "ssseasonnn",
                 "repo": "RxDownload",
-                "stars": 4116
-              }
+                "stars": 4117
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -868,7 +913,8 @@
                 "owner": "line",
                 "repo": "clay",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -890,7 +936,8 @@
                 "owner": "RedApparat",
                 "repo": "Fotoapparat",
                 "stars": 3811
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -912,7 +959,8 @@
                 "owner": "JesusM",
                 "repo": "FingerprintManager",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -930,11 +978,12 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-27T09:03:01Z",
+                "last_commit": "2026-08-28T00:00:18Z",
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7034
-              }
+                "stars": 7035
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -949,7 +998,8 @@
                 "owner": "kizitonwose",
                 "repo": "Time",
                 "stars": 984
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -964,7 +1014,8 @@
                 "owner": "kiruto",
                 "repo": "debug-bottle",
                 "stars": 845
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1030,8 @@
                 "owner": "Cuieney",
                 "repo": "RxPay",
                 "stars": 580
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -994,7 +1046,8 @@
                 "owner": "thisisqubika",
                 "repo": "fakeit",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -1016,7 +1069,8 @@
                 "owner": "TradeMe",
                 "repo": "MapMe",
                 "stars": 831
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1085,8 @@
                 "owner": "mplatvoet",
                 "repo": "kovenant",
                 "stars": 649
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1101,8 @@
                 "owner": "grandstaish",
                 "repo": "paperparcel",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -1064,11 +1120,12 @@
                 "archived": false,
                 "id": 97827246,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T10:47:54Z",
+                "last_commit": "2026-08-27T16:29:35Z",
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
                 "stars": 5943
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -1090,7 +1147,8 @@
                 "owner": "AdevintaSpain",
                 "repo": "Barista",
                 "stars": 1690
-              }
+              },
+              "first_seen": "2026-08-28T06:11:07.497Z"
             }
           ],
           "description": null,
@@ -1115,8 +1173,9 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36767
-          }
+            "stars": 36768
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1131,7 +1190,8 @@
             "owner": "chrisbanes",
             "repo": "tivi",
             "stars": 6727
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1146,7 +1206,8 @@
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
             "stars": 4015
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1161,7 +1222,8 @@
             "owner": "git-xuhao",
             "repo": "KotlinMvp",
             "stars": 3703
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1176,7 +1238,8 @@
             "owner": "SimpleMobileTools",
             "repo": "Simple-Calendar",
             "stars": 3650
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1187,11 +1250,12 @@
             "archived": false,
             "id": 22558387,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T21:53:23Z",
+            "last_commit": "2026-08-28T02:45:24Z",
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3094
-          }
+            "stars": 3096
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1206,7 +1270,8 @@
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
             "stars": 2719
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1221,7 +1286,8 @@
             "owner": "antoniolg",
             "repo": "Kotlin-for-Android-Developers",
             "stars": 2670
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1236,7 +1302,8 @@
             "owner": "fossasia",
             "repo": "susi_android",
             "stars": 2449
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1247,11 +1314,12 @@
             "archived": false,
             "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T02:50:38Z",
+            "last_commit": "2026-08-28T02:26:27Z",
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2430
-          }
+            "stars": 2431
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1266,7 +1334,8 @@
             "owner": "ZacSweers",
             "repo": "CatchUp",
             "stars": 2099
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1281,7 +1350,8 @@
             "owner": "antoniolg",
             "repo": "Bandhook-Kotlin",
             "stars": 1852
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1296,7 +1366,8 @@
             "owner": "LRH1993",
             "repo": "Eyepetizer-in-Kotlin",
             "stars": 1643
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1311,7 +1382,8 @@
             "owner": "SimpleMobileTools",
             "repo": "Simple-File-Manager",
             "stars": 1579
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1326,7 +1398,8 @@
             "owner": "githubwing",
             "repo": "GankClient-Kotlin",
             "stars": 1515
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1341,7 +1414,8 @@
             "owner": "DroidKaigi",
             "repo": "conference-app-2018",
             "stars": 1334
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1356,7 +1430,8 @@
             "owner": "blackbbc",
             "repo": "Tucao",
             "stars": 1024
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1371,7 +1446,8 @@
             "owner": "wuapnjie",
             "repo": "PoiShuhui-Kotlin",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1386,7 +1462,8 @@
             "owner": "loopeer",
             "repo": "code-reader",
             "stars": 938
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1401,7 +1478,8 @@
             "owner": "SimpleMobileTools",
             "repo": "Simple-Notes",
             "stars": 871
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1416,7 +1494,8 @@
             "owner": "armcha",
             "repo": "Ribble",
             "stars": 857
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1431,7 +1510,8 @@
             "owner": "juanchosaravia",
             "repo": "KedditBySteps",
             "stars": 817
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1446,7 +1526,8 @@
             "owner": "SimpleMobileTools",
             "repo": "Simple-Camera",
             "stars": 806
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1461,7 +1542,8 @@
             "owner": "TonnyL",
             "repo": "Mango",
             "stars": 648
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1476,7 +1558,8 @@
             "owner": "nekocode",
             "repo": "Murmur",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1491,7 +1574,8 @@
             "owner": "liuzipengWally",
             "repo": "Twobbble",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1506,7 +1590,8 @@
             "owner": "dodyg",
             "repo": "AndroidRivers",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1521,7 +1606,8 @@
             "owner": "TonnyL",
             "repo": "FanfouHandpick",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         }
       ],
       "title": "完整 app"
@@ -1542,7 +1628,8 @@
             "owner": "android",
             "repo": "topeka",
             "stars": 5097
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1557,7 +1644,8 @@
             "owner": "Kotlin",
             "repo": "kotlin-fullstack-sample",
             "stars": 1205
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         },
         {
           "node_type": "item",
@@ -1572,7 +1660,8 @@
             "owner": "damianpetla",
             "repo": "kotlin-dagger-example",
             "stars": 531
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         }
       ],
       "title": "DEMO"
@@ -1593,14 +1682,15 @@
             "owner": "enbandari",
             "repo": "Kotlin-Tutorials",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:11:07.497Z"
         }
       ],
       "title": "资料"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:48.443Z",
+    "last_updated": "2026-08-28T06:11:07.497Z",
     "original_repository_info": {
       "archived": false,
       "id": 122860484,
@@ -1608,7 +1698,7 @@
       "last_commit": "2021-10-19T13:31:15Z",
       "owner": "adisonhuang",
       "repo": "awesome-kotlin-android",
-      "stars": 1011
+      "stars": 1012
     },
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
