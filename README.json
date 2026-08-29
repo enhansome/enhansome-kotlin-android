@@ -1948,7 +1948,7 @@
             "open_issues": 121,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3096,
+            "stars": 3097,
             "topics": [
               "android",
               "audiobook-player",
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:52.087Z",
+    "last_updated": "2026-08-29T04:35:17.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
