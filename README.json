@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An android boilerplate project using clean architecture",
+                "homepage": null,
                 "id": 99832180,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2023-05-19T11:43:25Z",
+                "open_issues": 28,
                 "owner": "bufferapp",
                 "repo": "android-clean-architecture-boilerplate",
-                "stars": 3677
+                "stars": 3677,
+                "topics": [
+                  "android",
+                  "android-application",
+                  "android-architecture",
+                  "android-boilerplate",
+                  "android-development",
+                  "boilerplate",
+                  "buffer",
+                  "clean-architecture"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -28,12 +42,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create kotlin android project with one line of command.",
+                "homepage": null,
                 "id": 41577702,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-05T14:00:56Z",
+                "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1585
+                "stars": 1585,
+                "topics": [
+                  "android",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -44,12 +66,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Kotlin Android] Kotlin Android starter based MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Kotlin Android project.",
+                "homepage": null,
                 "id": 64384593,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-08-14T07:45:49Z",
+                "open_issues": 9,
                 "owner": "androidstarters",
                 "repo": "kotlin-android-starter",
-                "stars": 595
+                "stars": 595,
+                "topics": [
+                  "android",
+                  "android-mvp-kotlin",
+                  "checkstyle",
+                  "espresso",
+                  "findbugs",
+                  "kotlin",
+                  "mockito",
+                  "mvp",
+                  "pmd",
+                  "robolectric",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -60,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android MVVM framework write in kotlin, develop Android has never been so fun.",
+                "homepage": null,
                 "id": 46047656,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2017-05-19T08:29:20Z",
+                "open_issues": 0,
                 "owner": "BennyWang",
                 "repo": "KBinding",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -83,12 +127,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pleasant Android application development",
+                "homepage": null,
                 "id": 24186761,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-05T08:59:41Z",
+                "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15775
+                "stars": 15775,
+                "topics": [
+                  "android",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -99,12 +151,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kotlin DSL wrapper around the mikepenz/MaterialDrawer library.",
+                "homepage": null,
                 "id": 87190725,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-19T15:54:14Z",
+                "open_issues": 8,
                 "owner": "zsmb13",
                 "repo": "MaterialDrawerKt",
-                "stars": 515
+                "stars": 515,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "android-ui",
+                  "drawer",
+                  "dsl",
+                  "kotlin",
+                  "material-ui",
+                  "materialdrawer",
+                  "navigation-drawer",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -115,12 +183,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSL for constructing the drawables in Kotlin instead of in XML",
+                "homepage": null,
                 "id": 87530414,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-28T12:38:46Z",
+                "open_issues": 2,
                 "owner": "infotech-group",
                 "repo": "android-drawable-dsl",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "android",
+                  "drawable",
+                  "dsl",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -138,12 +216,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of Kotlin extensions for Android app development.",
+                "homepage": "https://android.github.io/android-ktx/core-ktx/",
                 "id": 112380358,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-11-13T20:24:58Z",
+                "open_issues": 86,
                 "owner": "android",
                 "repo": "android-ktx",
-                "stars": 7416
+                "stars": 7416,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "kotlin-extensions"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -154,12 +241,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin library for Android",
+                "homepage": null,
                 "id": 32946447,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-02T11:56:11Z",
+                "open_issues": 6,
                 "owner": "pawegio",
                 "repo": "KAndroid",
-                "stars": 890
+                "stars": 890,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-extensions",
+                  "kotlin-library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -170,12 +268,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koi, a lightweight kotlin library for Android Development.",
+                "homepage": "https://github.com/mcxiaoke/kotlin-koi",
                 "id": 50421113,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2017-08-25T09:22:36Z",
+                "open_issues": 4,
                 "owner": "mcxiaoke",
                 "repo": "kotlin-koi",
-                "stars": 513
+                "stars": 513,
+                "topics": [
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -186,12 +293,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A collection of useful extension methods for Android",
+                "homepage": null,
                 "id": 43271057,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2017-10-18T15:58:22Z",
+                "open_issues": 1,
                 "owner": "nsk-mironov",
                 "repo": "kotlin-jetpack",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -211,12 +323,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal UI library for Android inspired by React",
+                    "homepage": null,
                     "id": 29293245,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-05-29T00:26:13Z",
+                    "open_issues": 41,
                     "owner": "anvil-ui",
                     "repo": "anvil",
-                    "stars": 1436
+                    "stars": 1436,
+                    "topics": [
+                      "android",
+                      "anvil",
+                      "java",
+                      "kotlin",
+                      "react",
+                      "xml-layout"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -234,12 +358,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android library for managing multiple stacks of fragments",
+                    "homepage": null,
                     "id": 54804774,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-04-05T02:54:09Z",
+                    "open_issues": 37,
                     "owner": "ncapdevi",
                     "repo": "FragNav",
-                    "stars": 1496
+                    "stars": 1496,
+                    "topics": [
+                      "android",
+                      "android-lib",
+                      "android-library",
+                      "android-navigation",
+                      "fragment",
+                      "fragment-transactions",
+                      "fragments",
+                      "multiple-stacks",
+                      "navigation",
+                      "tab-switches"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -257,12 +397,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Celebrate more with this lightweight confetti particle system 🎊",
+                    "homepage": null,
                     "id": 86191112,
                     "language": "Kotlin",
+                    "license": "ISC",
                     "last_commit": "2025-08-21T10:03:22Z",
+                    "open_issues": 27,
                     "owner": "DanielMartinus",
                     "repo": "Konfetti",
-                    "stars": 3385
+                    "stars": 3385,
+                    "topics": [
+                      "android",
+                      "android-animation",
+                      "android-ui",
+                      "animations",
+                      "canvas",
+                      "compose",
+                      "kotlin",
+                      "particle-system",
+                      "particles",
+                      "party"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -273,12 +429,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for dynamic view-to-view transitions",
+                    "homepage": null,
                     "id": 113546314,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-04-24T14:12:27Z",
+                    "open_issues": 0,
                     "owner": "dev-labs-bg",
                     "repo": "transitioner",
-                    "stars": 2050
+                    "stars": 2050,
+                    "topics": [
+                      "android",
+                      "android-library",
+                      "animation",
+                      "dynamic",
+                      "keyframe",
+                      "keyframe-animation",
+                      "keyframes",
+                      "kotlin",
+                      "library",
+                      "transition",
+                      "transitioner",
+                      "view"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -296,12 +470,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 86439306,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-09-22T10:02:12Z",
+                    "open_issues": 12,
                     "owner": "Yalantis",
                     "repo": "JellyToolbar",
-                    "stars": 1475
+                    "stars": 1475,
+                    "topics": [
+                      "android",
+                      "animation",
+                      "kotlin",
+                      "toolbar"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -319,12 +503,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementing Search Filter Animation in Kotlin for Quora Meets LinkedIn, Our App Design Concept",
+                    "homepage": "https://yalantis.com",
                     "id": 72092790,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-09-22T09:33:04Z",
+                    "open_issues": 20,
                     "owner": "Yalantis",
                     "repo": "SearchFilter",
-                    "stars": 1662
+                    "stars": 1662,
+                    "topics": [
+                      "android",
+                      "animation",
+                      "search-filters"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -335,12 +528,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An easy-to-use animation which can be used for content picking for Android",
+                    "homepage": "https://medium.com/@igalata13/how-to-create-a-bubble-selection-animation-on-android-627044da4854#.js8nebsx6",
                     "id": 84395488,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-05-01T00:53:17Z",
+                    "open_issues": 59,
                     "owner": "igalata",
                     "repo": "Bubble-Picker",
-                    "stars": 1395
+                    "stars": 1395,
+                    "topics": [
+                      "android",
+                      "animation",
+                      "bubble",
+                      "java",
+                      "kotlin",
+                      "opengl",
+                      "picker",
+                      "selection"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -351,12 +558,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multiselection Solution for Android in Kotlin",
+                    "homepage": "https://yalantis.com",
                     "id": 71238015,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2022-09-22T08:54:44Z",
+                    "open_issues": 4,
                     "owner": "Yalantis",
                     "repo": "Multi-Selection",
-                    "stars": 1369
+                    "stars": 1369,
+                    "topics": [
+                      "android",
+                      "animation",
+                      "kotlin",
+                      "kotlin-android",
+                      "multiselection",
+                      "recyclerview",
+                      "view-pager"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -367,12 +587,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A date time range picker for android written in Kotlin",
+                    "homepage": null,
                     "id": 76971814,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2025-11-14T02:09:19Z",
+                    "open_issues": 8,
                     "owner": "skedgo",
                     "repo": "DateTimeRangePicker",
-                    "stars": 502
+                    "stars": 502,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -390,12 +615,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⭐️ beautiful switch widget with sticky animation ⭐️",
+                    "homepage": null,
                     "id": 84812790,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2023-01-18T10:33:10Z",
+                    "open_issues": 12,
                     "owner": "GwonHyeok",
                     "repo": "StickySwitch",
-                    "stars": 771
+                    "stars": 771,
+                    "topics": [
+                      "android",
+                      "android-library",
+                      "animation",
+                      "beautiful",
+                      "library",
+                      "material-design",
+                      "sticky",
+                      "switch"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -406,12 +645,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stepper Touch for Android based on MaterialUp submission",
+                    "homepage": null,
                     "id": 85476181,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-31T17:16:15Z",
+                    "open_issues": 8,
                     "owner": "DanielMartinus",
                     "repo": "Stepper-Touch",
-                    "stars": 688
+                    "stars": 688,
+                    "topics": [
+                      "android",
+                      "library",
+                      "spring",
+                      "springanimator",
+                      "stepper-touch",
+                      "widget"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -429,12 +680,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion",
+                    "homepage": "https://www.ramotion.com/agency/app-development/",
                     "id": 110672825,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-07-09T21:18:15Z",
+                    "open_issues": 5,
                     "owner": "Ramotion",
                     "repo": "fluid-slider-android",
-                    "stars": 1417
+                    "stars": 1417,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -452,12 +712,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🍭 The usual Snackbar, but elegant",
+                    "homepage": null,
                     "id": 90392225,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2018-07-14T03:15:23Z",
+                    "open_issues": 6,
                     "owner": "TonnyL",
                     "repo": "Light",
-                    "stars": 542
+                    "stars": 542,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "kotlin-android",
+                      "kotlin-library",
+                      "material-components",
+                      "material-design",
+                      "snackbar",
+                      "ui-components"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -475,12 +749,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.",
+                    "homepage": null,
                     "id": 109437424,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2023-05-23T19:10:42Z",
+                    "open_issues": 8,
                     "owner": "wching",
                     "repo": "Android-Indefinite-Pager-Indicator",
-                    "stars": 1584
+                    "stars": 1584,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -498,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deprecated because of the performance not fine. Android custom shadow view, can replace your CardView",
+                    "homepage": null,
                     "id": 103920670,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-07-29T06:12:25Z",
+                    "open_issues": 23,
                     "owner": "loopeer",
                     "repo": "shadow",
-                    "stars": 1358
+                    "stars": 1358,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -514,12 +798,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fully customizable implementation of \"Snowfall View\" on Android.",
+                    "homepage": null,
                     "id": 77173879,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-06-28T12:24:09Z",
+                    "open_issues": 8,
                     "owner": "JetradarMobile",
                     "repo": "android-snowfall",
-                    "stars": 1170
+                    "stars": 1170,
+                    "topics": [
+                      "android",
+                      "animation",
+                      "christmas",
+                      "kotlin",
+                      "snow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 },
@@ -530,12 +825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android library that allows perform manipulations with text and easily combine it with images.",
+                    "homepage": "https://www.cleveroad.com/",
                     "id": 140836589,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2018-11-19T09:12:11Z",
+                    "open_issues": 3,
                     "owner": "Cleveroad",
                     "repo": "DroidArt",
-                    "stars": 209
+                    "stars": 209,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -553,12 +853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.",
+                    "homepage": null,
                     "id": 74326280,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-04-24T05:57:56Z",
+                    "open_issues": 22,
                     "owner": "recruit-mp",
                     "repo": "LightCalendarView",
-                    "stars": 440
+                    "stars": 440,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -576,12 +881,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app for experimenting with Adaptive Icons.",
+                    "homepage": null,
                     "id": 96443011,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-11-26T15:20:21Z",
+                    "open_issues": 10,
                     "owner": "nickbutcher",
                     "repo": "AdaptiveIconPlayground",
-                    "stars": 1364
+                    "stars": 1364,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
                 }
@@ -604,12 +914,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform",
+                "homepage": "https://insert-koin.io",
                 "id": 93515203,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-15T08:55:27Z",
+                "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10014
+                "stars": 10014,
+                "topics": [
+                  "android",
+                  "dependency-injection",
+                  "injection",
+                  "kotlin",
+                  "kotlin-multiplatform",
+                  "kotlin-multiplatform-library",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -620,12 +943,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform",
+                "homepage": "https://insert-koin.io",
                 "id": 93515203,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-15T08:55:27Z",
+                "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10014
+                "stars": 10014,
+                "topics": [
+                  "android",
+                  "dependency-injection",
+                  "injection",
+                  "kotlin",
+                  "kotlin-multiplatform",
+                  "kotlin-multiplatform-library",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -636,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "View \"injection\" library for Android.",
+                "homepage": null,
                 "id": 25452970,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-12T16:12:45Z",
+                "open_issues": 16,
                 "owner": "JakeWharton",
                 "repo": "kotterknife",
-                "stars": 2205
+                "stars": 2205,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -652,12 +993,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Android Library, that provides easy way to start the Activities with arguments.",
+                "homepage": "http://marcinmoskala.com/ActivityStarter/",
                 "id": 80822585,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-11T11:21:22Z",
+                "open_issues": 5,
                 "owner": "MarcinMoskala",
                 "repo": "ActivityStarter",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "activity",
+                  "android",
+                  "android-library",
+                  "kotlin",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -675,12 +1027,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Don't write a RecyclerView adapter again. Not even a ViewHolder!",
+                "homepage": null,
                 "id": 61912405,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-16T12:17:19Z",
+                "open_issues": 12,
                 "owner": "nitrico",
                 "repo": "LastAdapter",
-                "stars": 773
+                "stars": 773,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "databinding",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-library",
+                  "recyclerview",
+                  "recyclerview-adapter",
+                  "viewholder"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -698,12 +1065,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kotpref - Android SharedPreferences delegation library for Kotlin",
+                "homepage": "https://chibatching.github.io/Kotpref/",
                 "id": 40081857,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T06:09:56Z",
+                "open_issues": 0,
                 "owner": "chibatching",
                 "repo": "Kotpref",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "sharedpreferences"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -721,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
+                "homepage": null,
                 "id": 24161015,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:43:01Z",
+                "open_issues": 46,
                 "owner": "agrosner",
                 "repo": "DBFlow",
-                "stars": 4847
+                "stars": 4848,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -737,12 +1118,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "requery - modern SQL based query & persistence for Java / Kotlin / Android",
+                "homepage": null,
                 "id": 46154735,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-09T08:58:28Z",
+                "open_issues": 170,
                 "owner": "requery",
                 "repo": "requery",
-                "stars": 3124
+                "stars": 3124,
+                "topics": [
+                  "android",
+                  "java",
+                  "jdbc",
+                  "kotlin",
+                  "mysql",
+                  "oracle",
+                  "persistence",
+                  "postgres",
+                  "rxjava",
+                  "sql",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -760,12 +1158,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest HTTP networking library for Kotlin/Android",
+                "homepage": "https://fuel.gitbook.io/documentation/",
                 "id": 36847034,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-03T09:16:12Z",
+                "open_issues": 98,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4647
+                "stars": 4647,
+                "topics": [
+                  "android",
+                  "http-client",
+                  "kotlin",
+                  "networking",
+                  "rest",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -776,12 +1186,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.",
+                "homepage": "https://http4k.org",
                 "id": 86003479,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:23:10Z",
+                "open_issues": 45,
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2782
+                "stars": 2782,
+                "topics": [
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "http4k",
+                  "immutability",
+                  "kotlin",
+                  "tdd",
+                  "testability",
+                  "typesafe"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -799,12 +1224,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network logging interceptor for OkHttp. Logs an URL link with encoded network call data for every OkHttp call.",
+                "homepage": "https://proandroiddev.com/oklog-2-0-improved-android-network-logging-a72b2ffe4c66",
                 "id": 43640886,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2020-03-14T11:53:46Z",
+                "open_issues": 3,
                 "owner": "simonpercic",
                 "repo": "OkLog",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "android-library",
+                  "logging",
+                  "okhttp"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -815,12 +1249,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy Android logging with Kotlin and Timber",
+                "homepage": null,
                 "id": 62193369,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-09T15:49:44Z",
+                "open_issues": 2,
                 "owner": "ajalt",
                 "repo": "timberkt",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "kotlin-extensions",
+                  "logging"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -838,12 +1282,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JSON parser for Kotlin",
+                "homepage": null,
                 "id": 9588335,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-04T19:41:32Z",
+                "open_issues": 95,
                 "owner": "cbeust",
                 "repo": "klaxon",
-                "stars": 1862
+                "stars": 1862,
+                "topics": [
+                  "json",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -861,12 +1313,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava bindings for Kotlin",
+                "homepage": null,
                 "id": 23095938,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-16T06:34:13Z",
+                "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7029
+                "stars": 7029,
+                "topics": [
+                  "kotlin",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -884,12 +1344,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-threaded download tool written with RxJava and Kotlin",
+                "homepage": null,
                 "id": 72172651,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-28T03:03:13Z",
+                "open_issues": 47,
                 "owner": "ssseasonnn",
                 "repo": "RxDownload",
-                "stars": 4117
+                "stars": 4117,
+                "topics": [
+                  "kotlin",
+                  "rxdownload",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -907,12 +1376,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio",
+                "homepage": null,
                 "id": 103488794,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-06T06:37:45Z",
+                "open_issues": 3,
                 "owner": "line",
                 "repo": "clay",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -930,12 +1408,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making Camera for Android more friendly. 📸",
+                "homepage": null,
                 "id": 85997051,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-26T03:07:30Z",
+                "open_issues": 88,
                 "owner": "RedApparat",
                 "repo": "Fotoapparat",
-                "stars": 3811
+                "stars": 3811,
+                "topics": [
+                  "android",
+                  "camera"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -953,12 +1439,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small library to handle Android fingerprint API.",
+                "homepage": null,
                 "id": 87231563,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-02-07T13:48:06Z",
+                "open_issues": 7,
                 "owner": "JesusM",
                 "repo": "FingerprintManager",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "android-library",
+                  "encryption",
+                  "fingerprint",
+                  "fingerprint-api",
+                  "fingerprint-authentication",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-language",
+                  "kotlin-library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -976,12 +1477,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static code analysis for Kotlin",
+                "homepage": "https://detekt.dev",
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-28T00:00:18Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:59:54Z",
+                "open_issues": 191,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7035
+                "stars": 7035,
+                "topics": [
+                  "analysis",
+                  "code-quality",
+                  "codesmells",
+                  "gradle-plugin",
+                  "hacktoberfest",
+                  "kotlin",
+                  "lint",
+                  "linter",
+                  "static",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -992,12 +1509,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe time calculations in Kotlin, powered by generics.",
+                "homepage": null,
                 "id": 108419228,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2022-06-16T04:59:16Z",
+                "open_issues": 1,
                 "owner": "kizitonwose",
                 "repo": "Time",
-                "stars": 984
+                "stars": 984,
+                "topics": [
+                  "generics",
+                  "interval",
+                  "kotlin",
+                  "time"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -1008,12 +1535,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language.",
+                "homepage": "http://exyui.com/article/3/Android-Debug-Bottle-v11",
                 "id": 66073375,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-15T08:14:51Z",
+                "open_issues": 5,
                 "owner": "kiruto",
                 "repo": "debug-bottle",
-                "stars": 845
+                "stars": 845,
+                "topics": [
+                  "android-debug",
+                  "android-library",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -1024,12 +1560,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个集成支付宝微信的支付工具",
+                "homepage": null,
                 "id": 103625055,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-09-20T08:57:20Z",
+                "open_issues": 9,
                 "owner": "Cuieney",
                 "repo": "RxPay",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "kotlin",
+                  "kotlin-android",
+                  "payment",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -1040,12 +1586,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Kotlin fake data generator library!",
+                "homepage": null,
                 "id": 79579060,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2021-05-10T01:35:37Z",
+                "open_issues": 18,
                 "owner": "thisisqubika",
                 "repo": "fakeit",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "data-faker",
+                  "fakeit",
+                  "inactive-repo",
+                  "kotlin",
+                  "library",
+                  "open-source",
+                  "test-driven-development",
+                  "tests",
+                  "utility",
+                  "utility-library"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -1063,12 +1627,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Android maps adapter",
+                "homepage": null,
                 "id": 98249217,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2022-03-30T20:42:56Z",
+                "open_issues": 12,
                 "owner": "TradeMe",
                 "repo": "MapMe",
-                "stars": 831
+                "stars": 831,
+                "topics": [
+                  "diffutil",
+                  "googlemaps",
+                  "kotlin",
+                  "kotlin-android",
+                  "mapbox",
+                  "maps",
+                  "markers",
+                  "recyclerview"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -1079,12 +1657,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kovenant. Promises for Kotlin.",
+                "homepage": "http://kovenant.komponents.nl",
                 "id": 28311735,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2017-12-03T07:51:30Z",
+                "open_issues": 10,
                 "owner": "mplatvoet",
                 "repo": "kovenant",
-                "stars": 649
+                "stars": 649,
+                "topics": [
+                  "andriod",
+                  "async",
+                  "concurrency",
+                  "kotlin",
+                  "promises",
+                  "rx",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             },
@@ -1095,12 +1686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-generate Parcelable implementations for Java and Kotlin",
+                "homepage": "https://grandstaish.github.io/paperparcel/",
                 "id": 48286663,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-24T14:42:58Z",
+                "open_issues": 10,
                 "owner": "grandstaish",
                 "repo": "paperparcel",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "android",
+                  "android-parcelable",
+                  "annotation-processor",
+                  "autovalue-extension"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -1118,12 +1719,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin multiplatform / multi-format serialization ",
+                "homepage": null,
                 "id": 97827246,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T16:29:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T12:56:28Z",
+                "open_issues": 313,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5943
+                "stars": 5943,
+                "topics": [
+                  "cbor",
+                  "json",
+                  "kotlin",
+                  "protobuf",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -1141,12 +1753,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":coffee: The one who serves a great Espresso",
+                "homepage": null,
                 "id": 79541183,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-03T11:45:35Z",
+                "open_issues": 58,
                 "owner": "AdevintaSpain",
                 "repo": "Barista",
-                "stars": 1690
+                "stars": 1690,
+                "topics": [
+                  "android",
+                  "espresso",
+                  "flaky-tests",
+                  "instrumentation-tests",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
             }
@@ -1168,12 +1791,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A shadowsocks client for Android",
+            "homepage": null,
             "id": 7190986,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T11:06:54Z",
+            "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36768
+            "stars": 36771,
+            "topics": [
+              "android",
+              "shadowsocks"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1184,12 +1815,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tivi is a TV show tracking Android app, which connects to trakt.tv",
+            "homepage": null,
             "id": 100624553,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-12T18:56:00Z",
+            "open_issues": 0,
             "owner": "chrisbanes",
             "repo": "tivi",
-            "stars": 6727
+            "stars": 6727,
+            "topics": [
+              "android-application",
+              "jetpack-compose",
+              "kotlin",
+              "kotlin-coroutines",
+              "kotlin-multiplatform-mobile",
+              "trakt"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1200,12 +1843,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A premium app for managing and editing your photos, videos, GIFs without ads",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 51870853,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-18T04:23:47Z",
+            "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4015
+            "stars": 4015,
+            "topics": [
+              "android",
+              "android-development",
+              "freedom",
+              "gallery",
+              "kotlin",
+              "open-source",
+              "video",
+              "viewing-photos"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1216,12 +1873,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！",
+            "homepage": "https://xuhaoblog.com/KotlinMvp",
             "id": 111071830,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-30T04:51:54Z",
+            "open_issues": 21,
             "owner": "git-xuhao",
             "repo": "KotlinMvp",
-            "stars": 3703
+            "stars": 3703,
+            "topics": [
+              "eyepetizer",
+              "kotlin",
+              "kotlin-android",
+              "kotlin-glide",
+              "kotlin-language",
+              "kotlin-mvp",
+              "kotlin-mvp-retrofit-rxjava",
+              "kotlin-retrofit",
+              "kotlin-rxjava-android",
+              "mvp",
+              "mvp-retrofit-rxjava",
+              "mvp-rxjava-retrofit",
+              "retrofit2",
+              "rxjava",
+              "rxjava2",
+              "rxjava2-retrofit2"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1232,12 +1911,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple calendar with events, tasks, customizable colors, widgets and no ads.",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 50459012,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-26T15:37:04Z",
+            "open_issues": 306,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Calendar",
-            "stars": 3650
+            "stars": 3651,
+            "topics": [
+              "android",
+              "android-development",
+              "calendar",
+              "freedom",
+              "kotlin",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1248,12 +1939,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic audiobook player",
+            "homepage": "https://voice.woitaschek.de",
             "id": 22558387,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T02:45:24Z",
+            "open_issues": 121,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3096
+            "stars": 3096,
+            "topics": [
+              "android",
+              "audiobook-player",
+              "compose",
+              "jetpack-compose",
+              "kotlin",
+              "kotlin-android",
+              "material-design",
+              "minimal"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1264,12 +1969,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://twidere.com",
             "id": 21451240,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-02-05T02:27:06Z",
+            "open_issues": 333,
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "android",
+              "fanfou",
+              "gnusocial",
+              "kotlin",
+              "mastodon",
+              "material-design",
+              "statusnet",
+              "twidere",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1280,12 +2000,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion App for the book",
+            "homepage": "http://antonioleiva.com/kotlin-android-developers/",
             "id": 38667206,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-02T14:28:20Z",
+            "open_issues": 10,
             "owner": "antoniolg",
             "repo": "Kotlin-for-Android-Developers",
-            "stars": 2670
+            "stars": 2670,
+            "topics": [
+              "android-development",
+              "book",
+              "kotlin",
+              "kotlin-android"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1296,12 +2026,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SUSI.AI Android App https://play.google.com/apps/testing/ai.susi",
+            "homepage": null,
             "id": 68798776,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-11T18:43:23Z",
+            "open_issues": 81,
             "owner": "fossasia",
             "repo": "susi_android",
-            "stars": 2449
+            "stars": 2449,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1312,12 +2047,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Android browser with modern navigation",
+            "homepage": "http://acrdevelopment.org",
             "id": 7964711,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T02:26:27Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-28T21:07:53Z",
+            "open_issues": 350,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2431
+            "stars": 2431,
+            "topics": [
+              "android",
+              "browser",
+              "java",
+              "kotlin",
+              "lightning-browser"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1328,12 +2074,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app for catching up on things.",
+            "homepage": null,
             "id": 57029623,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:01:10Z",
+            "open_issues": 37,
             "owner": "ZacSweers",
             "repo": "CatchUp",
-            "stars": 2099
+            "stars": 2099,
+            "topics": [
+              "android",
+              "anvil",
+              "catchup",
+              "circuit",
+              "coroutines",
+              "dagger",
+              "dribbble",
+              "github",
+              "graphql",
+              "hackernews",
+              "kotlin",
+              "medium",
+              "moshi",
+              "producthunt",
+              "reddit",
+              "sqldelight"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1344,12 +2112,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A showcase music app for Android entirely written using Kotlin language",
+            "homepage": null,
             "id": 32647256,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-10T17:01:11Z",
+            "open_issues": 13,
             "owner": "antoniolg",
             "repo": "Bandhook-Kotlin",
-            "stars": 1852
+            "stars": 1852,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1360,12 +2133,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用Kotlin撸一款Eyepetizer，学习Kotlin语言",
+            "homepage": null,
             "id": 95836274,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2018-06-06T08:03:33Z",
+            "open_issues": 13,
             "owner": "LRH1993",
             "repo": "Eyepetizer-in-Kotlin",
-            "stars": 1643
+            "stars": 1643,
+            "topics": [
+              "eyepetizer",
+              "ijkplayer",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1376,12 +2158,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy app for managing your files without ads, respecting your privacy & security",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 63188974,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-11T09:59:37Z",
+            "open_issues": 106,
             "owner": "SimpleMobileTools",
             "repo": "Simple-File-Manager",
-            "stars": 1579
+            "stars": 1579,
+            "topics": [
+              "android",
+              "android-development",
+              "file-manager",
+              "freedom",
+              "kotlin",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1392,12 +2186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gank.io kotlin实现的干货集中营Android客户端 Kotlin  Dagger Databinding Rxjava Retrofit Okhttp3",
+            "homepage": null,
             "id": 74459584,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2017-08-07T02:12:33Z",
+            "open_issues": 12,
             "owner": "githubwing",
             "repo": "GankClient-Kotlin",
-            "stars": 1515
+            "stars": 1515,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1408,12 +2207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Official Conference App for DroidKaigi 2018 Tokyo",
+            "homepage": null,
             "id": 115203383,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-27T08:57:38Z",
+            "open_issues": 30,
             "owner": "DroidKaigi",
             "repo": "conference-app-2018",
-            "stars": 1334
+            "stars": 1334,
+            "topics": [
+              "android",
+              "android-app",
+              "conference",
+              "droidkaigi",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1424,12 +2234,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http://www.tucao.tv/ 吐槽第三方Android客户端",
+            "homepage": null,
             "id": 78953199,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-10-22T12:38:35Z",
+            "open_issues": 13,
             "owner": "blackbbc",
             "repo": "Tucao",
-            "stars": 1024
+            "stars": 1024,
+            "topics": [
+              "android",
+              "danmakuflamemaster",
+              "ijkplayer",
+              "kotlin",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1440,12 +2261,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Deprecated]一个用Kotlin写的简单漫画APP",
+            "homepage": null,
             "id": 53592874,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2017-07-15T06:52:48Z",
+            "open_issues": 8,
             "owner": "wuapnjie",
             "repo": "PoiShuhui-Kotlin",
-            "stars": 951
+            "stars": 951,
+            "topics": [
+              "comic",
+              "kotlin",
+              "kotlin-app"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1456,12 +2286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One Multi program language code reader",
+            "homepage": null,
             "id": 64836918,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2017-09-22T06:58:12Z",
+            "open_issues": 8,
             "owner": "loopeer",
             "repo": "code-reader",
-            "stars": 938
+            "stars": 938,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1472,12 +2307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple textfield for adding quick notes without ads.",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 51663277,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-11T10:01:54Z",
+            "open_issues": 68,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Notes",
-            "stars": 871
+            "stars": 871,
+            "topics": [
+              "android",
+              "android-development",
+              "customizable",
+              "freedom",
+              "hacktoberfest",
+              "kotlin",
+              "notes",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1488,12 +2337,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Dribbble Client using Dribbble API, fully written in Kotlin  😱 ❤️ ",
+            "homepage": null,
             "id": 98714221,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-14T07:16:13Z",
+            "open_issues": 6,
             "owner": "armcha",
             "repo": "Ribble",
-            "stars": 857
+            "stars": 857,
+            "topics": [
+              "android",
+              "architecture-components",
+              "clean-architecture",
+              "dagger2",
+              "dribble",
+              "kotlin",
+              "mvp",
+              "rxjava2"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1504,12 +2367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small Reddit Android client developed with Kotlin",
+            "homepage": null,
             "id": 50615971,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2019-12-02T21:01:09Z",
+            "open_issues": 2,
             "owner": "juanchosaravia",
             "repo": "KedditBySteps",
-            "stars": 817
+            "stars": 817,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1520,12 +2388,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick photo and video camera with a flash, customizable aspect ratio.",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 56095285,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-11T09:57:23Z",
+            "open_issues": 52,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Camera",
-            "stars": 806
+            "stars": 806,
+            "topics": [
+              "android",
+              "camera",
+              "flash",
+              "kotlin",
+              "opensource",
+              "photos",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1536,12 +2417,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏀 An Android app for dribbble.com",
+            "homepage": null,
             "id": 96067211,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2020-10-26T03:17:07Z",
+            "open_issues": 1,
             "owner": "TonnyL",
             "repo": "Mango",
-            "stars": 648
+            "stars": 648,
+            "topics": [
+              "android-app",
+              "android-application",
+              "dribbble",
+              "kotlin",
+              "kotlin-android",
+              "mango",
+              "mvp-architecture",
+              "rxjava",
+              "rxkotlin"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1552,12 +2448,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📻 A third-party android client of DoubanFM.",
+            "homepage": null,
             "id": 42351696,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-06T11:38:08Z",
+            "open_issues": 0,
             "owner": "nekocode",
             "repo": "Murmur",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "android",
+              "app"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1568,12 +2472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "这是一个使用Kotlin开发的Dribbble客户端",
+            "homepage": null,
             "id": 82531843,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-03T06:22:31Z",
+            "open_issues": 1,
             "owner": "liuzipengWally",
             "repo": "Twobbble",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1584,12 +2493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anxiety free news reader for Android - developed using Kotlin",
+            "homepage": "http://rivers.silverkeytech.com",
             "id": 5296191,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2015-10-06T13:59:13Z",
+            "open_issues": 5,
             "owner": "dodyg",
             "repo": "AndroidRivers",
-            "stars": 321
+            "stars": 321,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1600,12 +2514,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📖 A Fanfou Handpick Client Developed by Kotlin",
+            "homepage": null,
             "id": 62868187,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-15T04:41:12Z",
+            "open_issues": 0,
             "owner": "TonnyL",
             "repo": "FanfouHandpick",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "android",
+              "fanfou",
+              "kotlin",
+              "kotlin-android"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         }
@@ -1622,12 +2546,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fun to play quiz that showcases material design on Android",
+            "homepage": null,
             "id": 35272152,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-22T21:31:15Z",
+            "open_issues": 8,
             "owner": "android",
             "repo": "topeka",
-            "stars": 5097
+            "stars": 5097,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1638,12 +2567,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kotlin Full-stack Application Example",
+            "homepage": "https://kotlinlang.org",
             "id": 76473101,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-31T09:27:27Z",
+            "open_issues": 25,
             "owner": "Kotlin",
             "repo": "kotlin-fullstack-sample",
-            "stars": 1205
+            "stars": 1205,
+            "topics": [
+              "full-stack",
+              "kotlin",
+              "sample",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         },
@@ -1654,12 +2593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of Android project showing integration with Kotlin and Dagger 2",
+            "homepage": null,
             "id": 27993911,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2018-02-12T11:47:46Z",
+            "open_issues": 4,
             "owner": "damianpetla",
             "repo": "kotlin-dagger-example",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         }
@@ -1676,12 +2620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~",
+            "homepage": null,
             "id": 98587016,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2017-06-06T22:42:32Z",
+            "open_issues": 1,
             "owner": "enbandari",
             "repo": "Kotlin-Tutorials",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
         }
@@ -1690,15 +2639,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:11:07.497Z",
+    "last_updated": "2026-08-29T03:44:52.087Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
+      "homepage": null,
       "id": 122860484,
       "language": "Kotlin",
+      "license": "Apache-2.0",
       "last_commit": "2021-10-19T13:31:15Z",
+      "open_issues": 3,
       "owner": "adisonhuang",
       "repo": "awesome-kotlin-android",
-      "stars": 1012
+      "stars": 1012,
+      "topics": [
+        "android",
+        "android-ktx",
+        "android-library",
+        "anko",
+        "app",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "demo",
+        "example",
+        "kotlin",
+        "kotlin-android",
+        "kotlin-extensions",
+        "kotlin-language",
+        "kotlin-library",
+        "kotlin-tutorials",
+        "list",
+        "lists"
+      ]
     },
     "original_repository_sha": "1d68284cb5798a38a7585cbe8d892a62616c322c",
     "enhanced_repository": "enhansome/enhansome-kotlin-android",
