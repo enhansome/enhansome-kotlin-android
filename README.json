@@ -438,7 +438,7 @@
                     "open_issues": 0,
                     "owner": "dev-labs-bg",
                     "repo": "transitioner",
-                    "stars": 2050,
+                    "stars": 2049,
                     "topics": [
                       "android",
                       "android-library",
@@ -923,7 +923,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10014,
+                "stars": 10015,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -952,7 +952,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10014,
+                "stars": 10015,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -1291,7 +1291,7 @@
                 "open_issues": 95,
                 "owner": "cbeust",
                 "repo": "klaxon",
-                "stars": 1862,
+                "stars": 1863,
                 "topics": [
                   "json",
                   "kotlin"
@@ -1482,11 +1482,11 @@
                 "id": 71729669,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:59:54Z",
-                "open_issues": 191,
+                "last_commit": "2026-08-29T22:51:08Z",
+                "open_issues": 189,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7035,
+                "stars": 7036,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1945,10 +1945,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T02:45:24Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3097,
+            "stars": 3098,
             "topics": [
               "android",
               "audiobook-player",
@@ -1978,7 +1978,7 @@
             "open_issues": 333,
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
-            "stars": 2720,
+            "stars": 2719,
             "topics": [
               "android",
               "fanfou",
@@ -2052,11 +2052,11 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-28T21:07:53Z",
+            "last_commit": "2026-08-29T14:10:51Z",
             "open_issues": 350,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2431,
+            "stars": 2432,
             "topics": [
               "android",
               "browser",
@@ -2167,7 +2167,7 @@
             "open_issues": 106,
             "owner": "SimpleMobileTools",
             "repo": "Simple-File-Manager",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "android",
               "android-development",
@@ -2216,7 +2216,7 @@
             "open_issues": 30,
             "owner": "DroidKaigi",
             "repo": "conference-app-2018",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "android",
               "android-app",
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:17.032Z",
+    "last_updated": "2026-08-30T00:26:42.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
