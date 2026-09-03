@@ -90,7 +90,7 @@
 ### 扩展
 
 * [android-ktx](https://github.com/android/android-ktx) ⚠️ Archived - google 开源的 Kotlin 扩展插件库，在 Android 框架和 Support Library 上提供相应 API 层，帮助开发者更自然编写 Kotlin 代码 🔥🔥🔥🔥🔥
-* [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 890 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - 轻量级Kotlin 扩展插件库 🔥🔥🔥
+* [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 889 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - 轻量级Kotlin 扩展插件库 🔥🔥🔥
 * [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) ⭐ 513 | 🐛 4 | 🌐 Kotlin | 📅 2017-08-25 - 又一个轻量级Kotlin 扩展插件库 🔥🔥🔥
 * [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) ⚠️ Archived 有用的扩展方法集合 🔥
 
@@ -122,7 +122,7 @@
 
 #### Toolbar
 
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,475 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,474 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -187,7 +187,7 @@
 
 #### 通知/提醒
 
-* [Light](https://github.com/TonnyL/Light) ⭐ 542 | 🐛 6 | 🌐 Kotlin | 📅 2018-07-14 - 优雅通用的 Snackbar🔥🔥🔥
+* [Light](https://github.com/TonnyL/Light) ⭐ 541 | 🐛 6 | 🌐 Kotlin | 📅 2018-07-14 - 优雅通用的 Snackbar🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -256,7 +256,7 @@
 
 ### 数据绑定
 
-* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 773 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
+* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 772 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ### 代理
 
@@ -264,13 +264,13 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,848 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,847 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
 * [requery](https://github.com/requery/requery) ⭐ 3,125 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,783 | 🐛 45 | 🌐 Kotlin | 📅 2026-08-31 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,783 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-02 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -283,7 +283,7 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,029 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,028 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,038 | 🐛 190 | 🌐 MDX | 📅 2026-09-01 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,039 | 🐛 191 | 🌐 MDX | 📅 2026-09-02 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,944 | 🐛 309 | 🌐 Kotlin | 📅 2026-09-01 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,943 | 🐛 311 | 🌐 Kotlin | 📅 2026-09-02 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -340,7 +340,7 @@
     </div>
    </details>
 
-* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) ⭐ 3,702 | 🐛 21 | 🌐 Kotlin | 📅 2020-06-30 -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP🔥🔥🔥🔥🔥
+* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) ⭐ 3,701 | 🐛 21 | 🌐 Kotlin | 📅 2020-06-30 -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
        <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,109 | 🐛 123 | 🌐 Kotlin | 📅 2026-09-01 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,110 | 🐛 124 | 🌐 Kotlin | 📅 2026-09-01 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,431 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-01 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,431 | 🐛 352 | 🌐 Kotlin | 📅 2026-09-02 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,100 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-01 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -463,7 +463,7 @@
     </div>
    </details>  
 
-* [Ribble](https://github.com/armcha/Ribble) ⭐ 857 | 🐛 6 | 🌐 Kotlin | 📅 2017-11-14 - Dribbble客户端🔥🔥🔥
+* [Ribble](https://github.com/armcha/Ribble) ⭐ 856 | 🐛 6 | 🌐 Kotlin | 📅 2017-11-14 - Dribbble客户端🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
   <div style="display:flex;">
@@ -482,7 +482,7 @@
     </div>
    </details>
 
-* [Mango](https://github.com/TonnyL/Mango) ⭐ 648 | 🐛 1 | 🌐 Kotlin | 📅 2020-10-26 - Dribbble客户端🔥🔥🔥
+* [Mango](https://github.com/TonnyL/Mango) ⭐ 647 | 🐛 1 | 🌐 Kotlin | 📅 2020-10-26 - Dribbble客户端🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
   <div style="display:flex;">
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

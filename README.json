@@ -136,7 +136,7 @@
                 "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15776,
+                "stars": 15774,
                 "topics": [
                   "android",
                   "kotlin"
@@ -225,7 +225,7 @@
                 "open_issues": 86,
                 "owner": "android",
                 "repo": "android-ktx",
-                "stars": 7416,
+                "stars": 7414,
                 "topics": [
                   "android",
                   "kotlin",
@@ -250,7 +250,7 @@
                 "open_issues": 6,
                 "owner": "pawegio",
                 "repo": "KAndroid",
-                "stars": 890,
+                "stars": 889,
                 "topics": [
                   "android",
                   "kotlin",
@@ -479,7 +479,7 @@
                     "open_issues": 12,
                     "owner": "Yalantis",
                     "repo": "JellyToolbar",
-                    "stars": 1475,
+                    "stars": 1474,
                     "topics": [
                       "android",
                       "animation",
@@ -721,7 +721,7 @@
                     "open_issues": 6,
                     "owner": "TonnyL",
                     "repo": "Light",
-                    "stars": 542,
+                    "stars": 541,
                     "topics": [
                       "android",
                       "kotlin",
@@ -1036,7 +1036,7 @@
                 "open_issues": 12,
                 "owner": "nitrico",
                 "repo": "LastAdapter",
-                "stars": 773,
+                "stars": 772,
                 "topics": [
                   "android",
                   "android-library",
@@ -1106,7 +1106,7 @@
                 "open_issues": 46,
                 "owner": "agrosner",
                 "repo": "DBFlow",
-                "stars": 4848,
+                "stars": 4847,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
@@ -1191,7 +1191,7 @@
                 "id": 86003479,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T20:46:33Z",
+                "last_commit": "2026-09-02T21:43:12Z",
                 "open_issues": 45,
                 "owner": "http4k",
                 "repo": "http4k",
@@ -1322,7 +1322,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7029,
+                "stars": 7028,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -1482,11 +1482,11 @@
                 "id": 71729669,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:42:56Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-02T09:54:06Z",
+                "open_issues": 191,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7038,
+                "stars": 7039,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1724,11 +1724,11 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T20:51:08Z",
-                "open_issues": 309,
+                "last_commit": "2026-09-02T17:01:38Z",
+                "open_issues": 311,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5944,
+                "stars": 5943,
                 "topics": [
                   "cbor",
                   "json",
@@ -1882,7 +1882,7 @@
             "open_issues": 21,
             "owner": "git-xuhao",
             "repo": "KotlinMvp",
-            "stars": 3702,
+            "stars": 3701,
             "topics": [
               "eyepetizer",
               "kotlin",
@@ -1945,10 +1945,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-01T18:22:54Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3109,
+            "stars": 3110,
             "topics": [
               "android",
               "audiobook-player",
@@ -2052,8 +2052,8 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-01T08:52:10Z",
-            "open_issues": 351,
+            "last_commit": "2026-09-02T21:15:12Z",
+            "open_issues": 352,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2431,
@@ -2121,7 +2121,7 @@
             "open_issues": 13,
             "owner": "antoniolg",
             "repo": "Bandhook-Kotlin",
-            "stars": 1852,
+            "stars": 1851,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2346,7 +2346,7 @@
             "open_issues": 6,
             "owner": "armcha",
             "repo": "Ribble",
-            "stars": 857,
+            "stars": 856,
             "topics": [
               "android",
               "architecture-components",
@@ -2426,7 +2426,7 @@
             "open_issues": 1,
             "owner": "TonnyL",
             "repo": "Mango",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "android-app",
               "android-application",
@@ -2555,7 +2555,7 @@
             "open_issues": 8,
             "owner": "android",
             "repo": "topeka",
-            "stars": 5097,
+            "stars": 5098,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:20:04.473Z",
+    "last_updated": "2026-09-03T00:22:00.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
