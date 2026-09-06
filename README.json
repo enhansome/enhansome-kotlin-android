@@ -923,7 +923,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10019,
+                "stars": 10018,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -952,7 +952,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10019,
+                "stars": 10018,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -1191,11 +1191,11 @@
                 "id": 86003479,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T17:23:12Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-05T08:01:50Z",
+                "open_issues": 50,
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2784,
+                "stars": 2785,
                 "topics": [
                   "http",
                   "http-client",
@@ -1486,7 +1486,7 @@
                 "open_issues": 190,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7041,
+                "stars": 7040,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1728,7 +1728,7 @@
                 "open_issues": 296,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5946,
+                "stars": 5945,
                 "topics": [
                   "cbor",
                   "json",
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36785,
+            "stars": 36787,
             "topics": [
               "android",
               "shadowsocks"
@@ -1852,7 +1852,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4013,
+            "stars": 4012,
             "topics": [
               "android",
               "android-development",
@@ -1944,11 +1944,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T14:14:39Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-05T13:02:42Z",
+            "open_issues": 125,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3114,
+            "stars": 3116,
             "topics": [
               "android",
               "audiobook-player",
@@ -1978,7 +1978,7 @@
             "open_issues": 333,
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
-            "stars": 2718,
+            "stars": 2717,
             "topics": [
               "android",
               "fanfou",
@@ -2035,7 +2035,7 @@
             "open_issues": 81,
             "owner": "fossasia",
             "repo": "susi_android",
-            "stars": 2449,
+            "stars": 2450,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2052,11 +2052,11 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T21:07:51Z",
-            "open_issues": 352,
+            "last_commit": "2026-09-05T02:12:11Z",
+            "open_issues": 351,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2429,
+            "stars": 2430,
             "topics": [
               "android",
               "browser",
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:11:45.328Z",
+    "last_updated": "2026-09-06T00:00:20.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
