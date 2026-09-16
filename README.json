@@ -136,7 +136,7 @@
                 "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15770,
+                "stars": 15771,
                 "topics": [
                   "android",
                   "kotlin"
@@ -406,7 +406,7 @@
                     "open_issues": 27,
                     "owner": "DanielMartinus",
                     "repo": "Konfetti",
-                    "stars": 3389,
+                    "stars": 3390,
                     "topics": [
                       "android",
                       "android-animation",
@@ -1192,7 +1192,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-13T19:30:01Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "http4k",
                 "repo": "http4k",
                 "stars": 2787,
@@ -1322,7 +1322,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7027,
+                "stars": 7028,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -1353,7 +1353,7 @@
                 "open_issues": 47,
                 "owner": "ssseasonnn",
                 "repo": "RxDownload",
-                "stars": 4118,
+                "stars": 4117,
                 "topics": [
                   "kotlin",
                   "rxdownload",
@@ -1482,11 +1482,11 @@
                 "id": 71729669,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T22:59:53Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-15T22:36:11Z",
+                "open_issues": 199,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7053,
+                "stars": 7054,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1724,8 +1724,8 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T17:36:18Z",
-                "open_issues": 304,
+                "last_commit": "2026-09-15T22:07:25Z",
+                "open_issues": 303,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
                 "stars": 5949,
@@ -1852,7 +1852,7 @@
             "open_issues": 384,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4018,
+            "stars": 4017,
             "topics": [
               "android",
               "android-development",
@@ -1948,7 +1948,7 @@
             "open_issues": 129,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3131,
+            "stars": 3134,
             "topics": [
               "android",
               "audiobook-player",
@@ -2052,7 +2052,7 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-14T12:20:30Z",
+            "last_commit": "2026-09-15T11:45:14Z",
             "open_issues": 351,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
@@ -2079,7 +2079,7 @@
             "id": 57029623,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T18:52:30Z",
+            "last_commit": "2026-09-15T20:55:50Z",
             "open_issues": 31,
             "owner": "ZacSweers",
             "repo": "CatchUp",
@@ -2195,7 +2195,7 @@
             "open_issues": 12,
             "owner": "githubwing",
             "repo": "GankClient-Kotlin",
-            "stars": 1514,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:42:21.477Z",
+    "last_updated": "2026-09-16T00:30:35.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
