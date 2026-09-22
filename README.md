@@ -264,13 +264,13 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,848 | 🐛 47 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,847 | 🐛 47 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
 * [requery](https://github.com/requery/requery) ⭐ 3,124 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,790 | 🐛 43 | 🌐 Kotlin | 📅 2026-09-20 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,789 | 🐛 43 | 🌐 Kotlin | 📅 2026-09-20 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -295,7 +295,7 @@
 
 ### 拍照
 
-* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,813 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,812 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
 
 ### 指纹
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,064 | 🐛 198 | 🌐 Kotlin | 📅 2026-09-21 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,065 | 🐛 197 | 🌐 Kotlin | 📅 2026-09-21 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -312,12 +312,12 @@
 ### 其他
 
 * [MapMe](https://github.com/TradeMe/MapMe) ⭐ 831 | 🐛 12 | 🌐 Kotlin | 📅 2022-03-30 - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥
-* [Kovenant](https://github.com/mplatvoet/kovenant) ⭐ 649 | 🐛 10 | 🌐 Kotlin | 📅 2017-12-03 - Kotlin 的 Promises 库 🔥🔥🔥
+* [Kovenant](https://github.com/mplatvoet/kovenant) ⭐ 648 | 🐛 10 | 🌐 Kotlin | 📅 2017-12-03 - Kotlin 的 Promises 库 🔥🔥🔥
 * [paperparcel](https://github.com/grandstaish/paperparcel) ⭐ 494 | 🐛 10 | 🌐 Java | 📅 2019-11-24 - 自动生成Parcelable 代码的注解处理器 🔥🔥
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 301 | 🌐 Kotlin | 📅 2026-09-18 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,949 | 🐛 300 | 🌐 Kotlin | 📅 2026-09-21 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -357,11 +357,11 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,142 | 🐛 130 | 🌐 Kotlin | 📅 2026-09-19 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,145 | 🐛 131 | 🌐 Kotlin | 📅 2026-09-19 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
-* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,669 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
+* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,670 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
 
 * [susi\_android](https://github.com/fossasia/susi_android) ⚠️ Archived - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,430 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-20 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,430 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-21 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,102 | 🐛 31 | 🌐 Kotlin | 📅 2026-09-20 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -407,7 +407,7 @@
     </div>
    </details>
 
-* [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) ⭐ 1,513 | 🐛 12 | 🌐 Kotlin | 📅 2017-08-07 - 用 Kotlin 写的 Gank 客户端🔥🔥🔥🔥
+* [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) ⭐ 1,514 | 🐛 12 | 🌐 Kotlin | 📅 2017-08-07 - 用 Kotlin 写的 Gank 客户端🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -549,8 +549,8 @@
 
 [back to top](#readme)
 
-* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,893 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
+* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,894 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
