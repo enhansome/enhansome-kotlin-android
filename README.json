@@ -225,7 +225,7 @@
                 "open_issues": 86,
                 "owner": "android",
                 "repo": "android-ktx",
-                "stars": 7410,
+                "stars": 7411,
                 "topics": [
                   "android",
                   "kotlin",
@@ -367,7 +367,7 @@
                     "open_issues": 36,
                     "owner": "ncapdevi",
                     "repo": "FragNav",
-                    "stars": 1495,
+                    "stars": 1494,
                     "topics": [
                       "android",
                       "android-lib",
@@ -1074,7 +1074,7 @@
                 "open_issues": 0,
                 "owner": "chibatching",
                 "repo": "Kotpref",
-                "stars": 695,
+                "stars": 694,
                 "topics": [
                   "android",
                   "kotlin",
@@ -1482,8 +1482,8 @@
                 "id": 71729669,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T06:03:06Z",
-                "open_issues": 197,
+                "last_commit": "2026-09-26T00:28:58Z",
+                "open_issues": 194,
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7069,
@@ -1724,11 +1724,11 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T12:55:40Z",
-                "open_issues": 298,
+                "last_commit": "2026-09-25T12:21:58Z",
+                "open_issues": 299,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5949,
+                "stars": 5948,
                 "topics": [
                   "cbor",
                   "json",
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36801,
+            "stars": 36804,
             "topics": [
               "android",
               "shadowsocks"
@@ -1824,7 +1824,7 @@
             "open_issues": 0,
             "owner": "chrisbanes",
             "repo": "tivi",
-            "stars": 6722,
+            "stars": 6721,
             "topics": [
               "android-application",
               "jetpack-compose",
@@ -1882,7 +1882,7 @@
             "open_issues": 21,
             "owner": "git-xuhao",
             "repo": "KotlinMvp",
-            "stars": 3700,
+            "stars": 3699,
             "topics": [
               "eyepetizer",
               "kotlin",
@@ -1944,11 +1944,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T05:18:10Z",
+            "last_commit": "2026-09-25T16:47:57Z",
             "open_issues": 133,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3147,
+            "stars": 3150,
             "topics": [
               "android",
               "audiobook-player",
@@ -2052,8 +2052,8 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T13:01:38Z",
-            "open_issues": 353,
+            "last_commit": "2026-09-25T13:26:02Z",
+            "open_issues": 352,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2431,
@@ -2295,7 +2295,7 @@
             "open_issues": 8,
             "owner": "loopeer",
             "repo": "code-reader",
-            "stars": 936,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2376,7 +2376,7 @@
             "open_issues": 2,
             "owner": "juanchosaravia",
             "repo": "KedditBySteps",
-            "stars": 817,
+            "stars": 816,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:36:42.825Z",
+    "last_updated": "2026-09-26T00:41:07.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
