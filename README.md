@@ -106,14 +106,14 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,049 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
+* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,048 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -287,7 +287,7 @@
 
 ### 下载
 
-[RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,115 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
+[RxDownload](https://github.com/ssseasonnn/RxDownload) ⭐ 4,114 | 🐛 47 | 🌐 Kotlin | 📅 2021-10-28 - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
 
 ### 图片
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,073 | 🐛 196 | 🌐 Kotlin | 📅 2026-09-27 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,073 | 🐛 189 | 🌐 Kotlin | 📅 2026-09-28 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,947 | 🐛 299 | 🌐 Kotlin | 📅 2026-09-25 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,946 | 🐛 300 | 🌐 Kotlin | 📅 2026-09-28 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,805 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,807 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,020 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,021 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,652 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,651 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,152 | 🐛 133 | 🌐 Kotlin | 📅 2026-09-25 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,153 | 🐛 134 | 🌐 Kotlin | 📅 2026-09-25 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,432 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-27 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,433 | 🐛 351 | 🌐 Kotlin | 📅 2026-09-28 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,103 | 🐛 31 | 🌐 Kotlin | 📅 2026-09-20 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -391,7 +391,7 @@
     </div>
    </details>
 
-* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,643 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
+* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,644 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -536,7 +536,7 @@
 
 * [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) ⚠️ Archived - kotlin 全栈开发应用例子，包括前端和后台 🔥🔥🔥🔥
 
-* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) ⭐ 531 | 🐛 4 | 🌐 Kotlin | 📅 2018-02-12 - Dagger 2 和 Kotlin 结合例子 🔥🔥🔥
+* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) ⭐ 530 | 🐛 4 | 🌐 Kotlin | 📅 2018-02-12 - Dagger 2 和 Kotlin 结合例子 🔥🔥🔥
 
 ## 资料
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
