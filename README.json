@@ -51,7 +51,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1583,
+                "stars": 1582,
                 "topics": [
                   "android",
                   "template"
@@ -919,8 +919,8 @@
                 "id": 93515203,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T15:32:06Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-30T15:33:00Z",
+                "open_issues": 71,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
                 "stars": 10021,
@@ -948,8 +948,8 @@
                 "id": 93515203,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T15:32:06Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-30T15:33:00Z",
+                "open_issues": 71,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
                 "stars": 10021,
@@ -1167,7 +1167,7 @@
                 "open_issues": 99,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4647,
+                "stars": 4648,
                 "topics": [
                   "android",
                   "http-client",
@@ -1192,7 +1192,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T16:28:44Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "http4k",
                 "repo": "http4k",
                 "stars": 2789,
@@ -1483,10 +1483,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T04:02:47Z",
-                "open_issues": 189,
+                "open_issues": 191,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7076,
+                "stars": 7078,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1724,8 +1724,8 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:07:24Z",
-                "open_issues": 300,
+                "last_commit": "2026-09-30T16:21:17Z",
+                "open_issues": 301,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
                 "stars": 5946,
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36810,
+            "stars": 36812,
             "topics": [
               "android",
               "shadowsocks"
@@ -1852,7 +1852,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4022,
+            "stars": 4023,
             "topics": [
               "android",
               "android-development",
@@ -1948,7 +1948,7 @@
             "open_issues": 134,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3155,
+            "stars": 3156,
             "topics": [
               "android",
               "audiobook-player",
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:20:48.981Z",
+    "last_updated": "2026-10-01T01:20:14.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
