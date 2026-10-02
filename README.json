@@ -136,7 +136,7 @@
                 "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15770,
+                "stars": 15768,
                 "topics": [
                   "android",
                   "kotlin"
@@ -758,7 +758,7 @@
                     "open_issues": 8,
                     "owner": "wching",
                     "repo": "Android-Indefinite-Pager-Indicator",
-                    "stars": 1586,
+                    "stars": 1587,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
@@ -919,7 +919,7 @@
                 "id": 93515203,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T15:33:00Z",
+                "last_commit": "2026-10-01T15:53:06Z",
                 "open_issues": 71,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
@@ -948,7 +948,7 @@
                 "id": 93515203,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T15:33:00Z",
+                "last_commit": "2026-10-01T15:53:06Z",
                 "open_issues": 71,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
@@ -1483,10 +1483,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T04:02:47Z",
-                "open_issues": 191,
+                "open_issues": 189,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7078,
+                "stars": 7079,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1724,7 +1724,7 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T16:21:17Z",
+                "last_commit": "2026-10-01T03:10:13Z",
                 "open_issues": 301,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36812,
+            "stars": 36805,
             "topics": [
               "android",
               "shadowsocks"
@@ -1944,11 +1944,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T16:47:57Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-01T19:10:23Z",
+            "open_issues": 133,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3156,
+            "stars": 3159,
             "topics": [
               "android",
               "audiobook-player",
@@ -2035,7 +2035,7 @@
             "open_issues": 81,
             "owner": "fossasia",
             "repo": "susi_android",
-            "stars": 2449,
+            "stars": 2450,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2053,7 +2053,7 @@
             "language": "Kotlin",
             "license": "MPL-2.0",
             "last_commit": "2026-09-28T13:10:46Z",
-            "open_issues": 351,
+            "open_issues": 352,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2434,
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:20:14.955Z",
+    "last_updated": "2026-10-02T01:43:11.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
