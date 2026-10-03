@@ -106,14 +106,14 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,048 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
+* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,047 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -122,7 +122,7 @@
 
 #### Toolbar
 
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,474 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,473 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -162,14 +162,14 @@
 
 #### 按钮
 
-* [StickySwitch](https://github.com/GwonHyeok/StickySwitch) ⭐ 770 | 🐛 12 | 🌐 Kotlin | 📅 2023-01-18 - 漂亮的切换开关🔥🔥🔥
+* [StickySwitch](https://github.com/GwonHyeok/StickySwitch) ⭐ 771 | 🐛 12 | 🌐 Kotlin | 📅 2023-01-18 - 漂亮的切换开关🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif" width="30%">
    </details>   
 
-* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) ⭐ 688 | 🐛 8 | 🌐 Kotlin | 📅 2023-07-31 - Material Design设计风格的触摸步进器🔥🔥🔥
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) ⭐ 689 | 🐛 8 | 🌐 Kotlin | 📅 2023-07-31 - Material Design设计风格的触摸步进器🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -178,7 +178,7 @@
 
 #### 进度条
 
-* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,416 | 🐛 5 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
+* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,417 | 🐛 5 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -198,7 +198,7 @@
 
 #### 指示器
 
-* [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) ⭐ 1,587 | 🐛 8 | 🌐 Kotlin | 📅 2023-05-23 -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器🔥🔥🔥🔥
+* [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) ⭐ 1,588 | 🐛 8 | 🌐 Kotlin | 📅 2023-05-23 -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -249,14 +249,14 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,021 | 🐛 71 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,021 | 🐛 71 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,022 | 🐛 71 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,022 | 🐛 71 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
 ### 数据绑定
 
-* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 772 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
+* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 771 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ### 代理
 
@@ -269,8 +269,8 @@
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,789 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-29 - HTTP 工具包 🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,647 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,790 | 🐛 45 | 🌐 Kotlin | 📅 2026-09-29 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,946 | 🐛 301 | 🌐 Kotlin | 📅 2026-10-01 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,946 | 🐛 303 | 🌐 Kotlin | 📅 2026-10-01 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,159 | 🐛 133 | 🌐 Kotlin | 📅 2026-10-01 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,163 | 🐛 135 | 🌐 Kotlin | 📅 2026-10-01 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,434 | 🐛 352 | 🌐 Kotlin | 📅 2026-09-28 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,435 | 🐛 352 | 🌐 Kotlin | 📅 2026-09-28 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,103 | 🐛 31 | 🌐 Kotlin | 📅 2026-09-20 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -398,7 +398,7 @@
     <img alt="image" src="https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="80%">
    </details>
 
-* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) ⭐ 1,584 | 🐛 106 | 🌐 Kotlin | 📅 2024-06-11 - 文件管理器🔥🔥🔥
+* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) ⭐ 1,583 | 🐛 106 | 🌐 Kotlin | 📅 2024-06-11 - 文件管理器🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
