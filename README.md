@@ -1,7 +1,7 @@
 # awesome-kotlin-android with stars
 
-[![Language](https://img.shields.io/badge/awesome-kotlin--android-blue.svg)](https://github.com/adisonhuang/awesome-kotlin-android) ⭐ 1,013 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
-[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/adisonhuang/awesome-kotlin-android/pulls) ⭐ 1,013 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-19
+[![Language](https://img.shields.io/badge/awesome-kotlin--android-blue.svg)](https://github.com/adisonhuang/awesome-kotlin-android)
+[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/adisonhuang/awesome-kotlin-android/pulls)
 [![LICENSE](https://img.shields.io/badge/licenses-apache-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 <img src="xamarinkotlin.png" width="200">
@@ -264,7 +264,7 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,847 | 🐛 47 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,846 | 🐛 47 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
 * [requery](https://github.com/requery/requery) ⭐ 3,124 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,163 | 🐛 135 | 🌐 Kotlin | 📅 2026-10-01 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,164 | 🐛 135 | 🌐 Kotlin | 📅 2026-10-01 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
