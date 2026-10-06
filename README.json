@@ -51,7 +51,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "android",
                   "template"
@@ -923,7 +923,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10024,
+                "stars": 10023,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -952,7 +952,7 @@
                 "open_issues": 72,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10024,
+                "stars": 10023,
                 "topics": [
                   "android",
                   "dependency-injection",
@@ -1322,7 +1322,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7025,
+                "stars": 7024,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -1483,7 +1483,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T14:19:50Z",
-                "open_issues": 187,
+                "open_issues": 188,
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7083,
@@ -1725,7 +1725,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T15:12:05Z",
-                "open_issues": 305,
+                "open_issues": 304,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
                 "stars": 5948,
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36808,
+            "stars": 36805,
             "topics": [
               "android",
               "shadowsocks"
@@ -2243,7 +2243,7 @@
             "open_issues": 14,
             "owner": "blackbbc",
             "repo": "Tucao",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "android",
               "danmakuflamemaster",
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:21:03.196Z",
+    "last_updated": "2026-10-06T10:45:58.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
