@@ -1483,10 +1483,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T14:19:50Z",
-                "open_issues": 188,
+                "open_issues": 189,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7083,
+                "stars": 7084,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1724,8 +1724,8 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T15:12:05Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-06T19:59:59Z",
+                "open_issues": 303,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
                 "stars": 5948,
@@ -1800,7 +1800,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36805,
+            "stars": 36804,
             "topics": [
               "android",
               "shadowsocks"
@@ -1824,7 +1824,7 @@
             "open_issues": 0,
             "owner": "chrisbanes",
             "repo": "tivi",
-            "stars": 6718,
+            "stars": 6719,
             "topics": [
               "android-application",
               "jetpack-compose",
@@ -1920,7 +1920,7 @@
             "open_issues": 307,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Calendar",
-            "stars": 3651,
+            "stars": 3650,
             "topics": [
               "android",
               "android-development",
@@ -1945,7 +1945,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T09:53:33Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
             "stars": 3168,
@@ -2639,7 +2639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:58.786Z",
+    "last_updated": "2026-10-07T01:39:29.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
