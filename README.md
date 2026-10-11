@@ -85,7 +85,7 @@
 
 * [anko](https://github.com/Kotlin/anko) ⚠️ Archived - JetBrains 官方为Android编写的 DSL，旨在令开发 Android 更快更简单 🔥🔥🔥🔥🔥
 * [MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) ⭐ 515 | 🐛 8 | 🌐 Kotlin | 📅 2020-06-19 - 不使用 XML 创建 Material Design 导航抽屉 🔥🔥🔥
-* [android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) ⭐ 182 | 🐛 2 | 🌐 Kotlin | 📅 2018-05-28 - 通过 kotlin 构造 drawable 而不是 XML 的 DSL 🔥
+* [android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) ⭐ 181 | 🐛 2 | 🌐 Kotlin | 📅 2018-05-28 - 通过 kotlin 构造 drawable 而不是 XML 的 DSL 🔥
 
 ### 扩展
 
@@ -98,7 +98,7 @@
 
 #### 通用库
 
-* [anvil](https://github.com/zserge/anvil) ⭐ 1,437 | 🐛 41 | 🌐 Java | 📅 2021-05-29 - 一个受React启发的Android的最小UI库 🔥🔥🔥🔥
+* [anvil](https://github.com/zserge/anvil) ⭐ 1,438 | 🐛 41 | 🌐 Java | 📅 2021-05-29 - 一个受React启发的Android的最小UI库 🔥🔥🔥🔥
 
 #### Fragment
 
@@ -106,7 +106,7 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,393 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -169,7 +169,7 @@
     <img alt="image" src="https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif" width="30%">
    </details>   
 
-* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) ⭐ 689 | 🐛 8 | 🌐 Kotlin | 📅 2023-07-31 - Material Design设计风格的触摸步进器🔥🔥🔥
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) ⭐ 688 | 🐛 8 | 🌐 Kotlin | 📅 2023-07-31 - Material Design设计风格的触摸步进器🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -249,8 +249,8 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
@@ -269,7 +269,7 @@
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,647 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
 * [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 47 | 🌐 Kotlin | 📅 2026-10-09 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,086 | 🐛 191 | 🌐 Kotlin | 📅 2026-10-08 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,087 | 🐛 193 | 🌐 Kotlin | 📅 2026-10-10 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 301 | 🌐 Kotlin | 📅 2026-10-09 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,950 | 🐛 301 | 🌐 Kotlin | 📅 2026-10-09 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,808 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,806 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,026 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,025 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,651 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,649 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,11 +357,11 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,174 | 🐛 15 | 🌐 Kotlin | 📅 2026-10-10 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,174 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-10 - 有声电子书阅读器 🔥🔥🔥🔥
 
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,719 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
-* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,672 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
+* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⭐ 2,671 | 🐛 10 | 🌐 Kotlin | 📅 2020-10-02 - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
 
 * [susi\_android](https://github.com/fossasia/susi_android) ⚠️ Archived - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案🔥🔥🔥🔥🔥
 
@@ -373,9 +373,9 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,437 | 🐛 354 | 🌐 Kotlin | 📅 2026-10-08 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,437 | 🐛 353 | 🌐 Kotlin | 📅 2026-10-10 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
-* [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,105 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-08 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
+* [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,104 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-08 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
   <div style="display:flex;">
@@ -454,7 +454,7 @@
       </div>
     </details>
 
-* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 871 | 🐛 72 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
+* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 870 | 🐛 72 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -471,7 +471,7 @@
   </div>
   </details>
 
-* [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) ⭐ 816 | 🐛 2 | 🌐 Kotlin | 📅 2019-12-02 - Reddit客户端 🔥🔥🔥
+* [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) ⭐ 815 | 🐛 2 | 🌐 Kotlin | 📅 2019-12-02 - Reddit客户端 🔥🔥🔥
 
 * [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) ⭐ 806 | 🐛 52 | 🌐 Kotlin | 📅 2024-06-11 - 拍照 APP🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
