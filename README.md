@@ -106,7 +106,7 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,393 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -215,7 +215,7 @@
     <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
    </details>
 
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,171 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 - 完全自定义实现的下雪效果🔥🔥🔥🔥
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,170 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 - 完全自定义实现的下雪效果🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -231,7 +231,7 @@
 
 #### 日历
 
-* [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) ⭐ 440 | 🐛 22 | 🌐 Kotlin | 📅 2017-04-24 - 轻量级日历🔥🔥
+* [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) ⭐ 439 | 🐛 22 | 🌐 Kotlin | 📅 2017-04-24 - 轻量级日历🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
    <div style="display:flex;">
@@ -249,14 +249,14 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,018 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,018 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
 ### 数据绑定
 
-* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 771 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
+* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 770 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ### 代理
 
@@ -264,13 +264,13 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,845 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,844 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
 * [requery](https://github.com/requery/requery) ⭐ 3,125 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-13 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-14 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -283,7 +283,7 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,022 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,021 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
@@ -303,8 +303,8 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,090 | 🐛 198 | 🌐 Kotlin | 📅 2026-10-10 - 静态代码分析工具 🔥🔥🔥🔥🔥
-* [Time](https://github.com/kizitonwose/Time) ⭐ 985 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,091 | 🐛 201 | 🌐 Kotlin | 📅 2026-10-15 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
 * [fakeit](https://github.com/moove-it/fakeit) ⭐ 540 | 🐛 18 | 🌐 Kotlin | 📅 2021-05-10 - 假数据生成库 🔥🔥
@@ -317,17 +317,17 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,952 | 🐛 300 | 🌐 Kotlin | 📅 2026-10-12 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,951 | 🐛 300 | 🌐 Kotlin | 📅 2026-10-12 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
-* [Barista](https://github.com/SchibstedSpain/Barista) ⭐ 1,691 | 🐛 58 | 🌐 Kotlin | 📅 2024-07-03 - 基于Espresso的 UI 测试框架。🔥🔥🔥🔥
+* [Barista](https://github.com/SchibstedSpain/Barista) ⭐ 1,689 | 🐛 58 | 🌐 Kotlin | 📅 2024-07-03 - 基于Espresso的 UI 测试框架。🔥🔥🔥🔥
 
 ## 完整 app
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,811 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,812 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
@@ -348,7 +348,7 @@
       </div>
     </details>
 
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,651 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,653 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26 - 日历 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,177 | 🐛 13 | 🌐 Kotlin | 📅 2026-10-13 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,179 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-14 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,439 | 🐛 351 | 🌐 Kotlin | 📅 2026-10-13 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,440 | 🐛 351 | 🌐 Kotlin | 📅 2026-10-13 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,107 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-08 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
