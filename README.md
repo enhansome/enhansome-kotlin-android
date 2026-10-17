@@ -106,7 +106,7 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 20 | 🌐 Kotlin | 📅 2026-10-16 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -131,7 +131,7 @@
 
 #### 选择/过滤器
 
-* [SearchFilter](https://github.com/Yalantis/SearchFilter) ⭐ 1,664 | 🐛 20 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 搜索过滤器 实现🔥🔥🔥🔥
+* [SearchFilter](https://github.com/Yalantis/SearchFilter) ⭐ 1,663 | 🐛 20 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 搜索过滤器 实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -231,7 +231,7 @@
 
 #### 日历
 
-* [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) ⭐ 439 | 🐛 22 | 🌐 Kotlin | 📅 2017-04-24 - 轻量级日历🔥🔥
+* [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) ⭐ 440 | 🐛 22 | 🌐 Kotlin | 📅 2017-04-24 - 轻量级日历🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
    <div style="display:flex;">
@@ -249,14 +249,14 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,019 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,019 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-01 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-01 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
 ### 数据绑定
 
-* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 770 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
+* [LastAdapter](https://github.com/nitrico/LastAdapter) ⭐ 771 | 🐛 12 | 🌐 Kotlin | 📅 2018-08-16 - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ### 代理
 
@@ -270,7 +270,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,792 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-15 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,792 | 🐛 46 | 🌐 Kotlin | 📅 2026-10-16 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -283,7 +283,7 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,021 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,020 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
@@ -295,7 +295,7 @@
 
 ### 拍照
 
-* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,810 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,807 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
 
 ### 指纹
 
@@ -303,8 +303,8 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,092 | 🐛 203 | 🌐 Kotlin | 📅 2026-10-15 - 静态代码分析工具 🔥🔥🔥🔥🔥
-* [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,094 | 🐛 194 | 🌐 Kotlin | 📅 2026-10-16 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [Time](https://github.com/kizitonwose/Time) ⭐ 985 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
 * [fakeit](https://github.com/moove-it/fakeit) ⭐ 540 | 🐛 18 | 🌐 Kotlin | 📅 2021-05-10 - 假数据生成库 🔥🔥
@@ -321,17 +321,17 @@
 
 ### 测试
 
-* [Barista](https://github.com/SchibstedSpain/Barista) ⭐ 1,689 | 🐛 58 | 🌐 Kotlin | 📅 2024-07-03 - 基于Espresso的 UI 测试框架。🔥🔥🔥🔥
+* [Barista](https://github.com/SchibstedSpain/Barista) ⭐ 1,690 | 🐛 58 | 🌐 Kotlin | 📅 2024-07-03 - 基于Espresso的 UI 测试框架。🔥🔥🔥🔥
 
 ## 完整 app
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,810 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,811 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,028 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,029 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,180 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-15 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,182 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-16 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,439 | 🐛 351 | 🌐 Kotlin | 📅 2026-10-13 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,440 | 🐛 351 | 🌐 Kotlin | 📅 2026-10-13 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,108 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-08 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -391,7 +391,7 @@
     </div>
    </details>
 
-* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,646 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
+* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,645 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
