@@ -106,14 +106,14 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-20 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-20 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,049 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
+* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,050 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -122,7 +122,7 @@
 
 #### Toolbar
 
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,475 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,476 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -178,7 +178,7 @@
 
 #### 进度条
 
-* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,419 | 🐛 5 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
+* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,418 | 🐛 5 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -249,8 +249,8 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,021 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-21 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,021 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-21 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
@@ -264,13 +264,13 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,844 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,843 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
 * [requery](https://github.com/requery/requery) ⭐ 3,125 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 45 | 🌐 Kotlin | 📅 2026-10-20 - HTTP 工具包 🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,646 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-22 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -295,7 +295,7 @@
 
 ### 拍照
 
-* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,806 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,805 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
 
 ### 指纹
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,101 | 🐛 189 | 🌐 Kotlin | 📅 2026-10-21 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,101 | 🐛 189 | 🌐 Kotlin | 📅 2026-10-23 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 985 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 302 | 🌐 Kotlin | 📅 2026-10-21 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 302 | 🌐 Kotlin | 📅 2026-10-22 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,11 +327,11 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,813 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,815 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,027 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) ⭐ 4,028 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - 相册 APP🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,203 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-21 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,204 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-22 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -373,7 +373,7 @@
     </div>
    </details>
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,442 | 🐛 356 | 🌐 Kotlin | 📅 2026-10-21 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,444 | 🐛 357 | 🌐 Kotlin | 📅 2026-10-22 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,106 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-21 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
