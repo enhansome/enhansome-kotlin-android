@@ -90,7 +90,7 @@
 ### 扩展
 
 * [android-ktx](https://github.com/android/android-ktx) ⚠️ Archived - google 开源的 Kotlin 扩展插件库，在 Android 框架和 Support Library 上提供相应 API 层，帮助开发者更自然编写 Kotlin 代码 🔥🔥🔥🔥🔥
-* [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 889 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - 轻量级Kotlin 扩展插件库 🔥🔥🔥
+* [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 888 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - 轻量级Kotlin 扩展插件库 🔥🔥🔥
 * [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) ⭐ 513 | 🐛 4 | 🌐 Kotlin | 📅 2017-08-25 - 又一个轻量级Kotlin 扩展插件库 🔥🔥🔥
 * [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) ⚠️ Archived 有用的扩展方法集合 🔥
 
@@ -106,7 +106,7 @@
 
 #### 动画
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-20 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-20 - 轻量五彩纸屑粒子系统🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -249,8 +249,8 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,020 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,022 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,022 | 🐛 75 | 🌐 Kotlin | 📅 2026-10-22 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
@@ -269,8 +269,8 @@
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,646 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-22 - HTTP 工具包 🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 44 | 🌐 Kotlin | 📅 2026-10-22 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -283,7 +283,7 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,019 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,018 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16 - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
@@ -295,15 +295,15 @@
 
 ### 拍照
 
-* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,805 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) ⭐ 3,804 | 🐛 88 | 🌐 Kotlin | 📅 2023-10-26 - 友好的相机库 🔥🔥🔥🔥🔥
 
 ### 指纹
 
-* [FingerprintManager](https://github.com/JesusM/FingerprintManager) ⭐ 566 | 🐛 7 | 🌐 Kotlin | 📅 2019-02-07 - 简单的指纹处理库 🔥🔥🔥
+* [FingerprintManager](https://github.com/JesusM/FingerprintManager) ⭐ 565 | 🐛 7 | 🌐 Kotlin | 📅 2019-02-07 - 简单的指纹处理库 🔥🔥🔥
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,101 | 🐛 189 | 🌐 Kotlin | 📅 2026-10-23 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,102 | 🐛 186 | 🌐 Kotlin | 📅 2026-10-23 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 985 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 845 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -313,11 +313,11 @@
 
 * [MapMe](https://github.com/TradeMe/MapMe) ⭐ 831 | 🐛 12 | 🌐 Kotlin | 📅 2022-03-30 - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥
 * [Kovenant](https://github.com/mplatvoet/kovenant) ⭐ 648 | 🐛 10 | 🌐 Kotlin | 📅 2017-12-03 - Kotlin 的 Promises 库 🔥🔥🔥
-* [paperparcel](https://github.com/grandstaish/paperparcel) ⭐ 494 | 🐛 10 | 🌐 Java | 📅 2019-11-24 - 自动生成Parcelable 代码的注解处理器 🔥🔥
+* [paperparcel](https://github.com/grandstaish/paperparcel) ⭐ 493 | 🐛 10 | 🌐 Java | 📅 2019-11-24 - 自动生成Parcelable 代码的注解处理器 🔥🔥
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 302 | 🌐 Kotlin | 📅 2026-10-22 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,948 | 🐛 303 | 🌐 Kotlin | 📅 2026-10-23 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -327,7 +327,7 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,815 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,816 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,204 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-22 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,208 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-22 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,720 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -494,7 +494,7 @@
 
 * [Murmur](https://github.com/nekocode/Murmur) ⭐ 452 | 🐛 0 | 🌐 Kotlin | 📅 2018-05-06 - 第三方豆瓣 FM 红心频道播放器🔥🔥
 
-* [Twobbble](https://github.com/550609334/Twobbble) ⭐ 379 | 🐛 1 | 🌐 Kotlin | 📅 2024-07-03 - Dribbble客户端🔥🔥
+* [Twobbble](https://github.com/550609334/Twobbble) ⭐ 378 | 🐛 1 | 🌐 Kotlin | 📅 2024-07-03 - Dribbble客户端🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
