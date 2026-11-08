@@ -249,8 +249,8 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 84 | 🌐 Kotlin | 📅 2026-11-06 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,023 | 🐛 84 | 🌐 Kotlin | 📅 2026-11-06 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,025 | 🐛 83 | 🌐 Kotlin | 📅 2026-11-06 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,025 | 🐛 83 | 🌐 Kotlin | 📅 2026-11-06 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
@@ -270,7 +270,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,643 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-11-06 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-11-07 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,106 | 🐛 178 | 🌐 Kotlin | 📅 2026-11-06 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,106 | 🐛 171 | 🌐 Kotlin | 📅 2026-11-07 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 844 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -357,13 +357,13 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,252 | 🐛 10 | 🌐 Kotlin | 📅 2026-11-06 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,257 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-08 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,718 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
 * [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⚠️ Archived - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,457 | 🐛 353 | 🌐 Kotlin | 📅 2026-11-06 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,458 | 🐛 353 | 🌐 Kotlin | 📅 2026-11-06 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [susi\_android](https://github.com/fossasia/susi_android) ⚠️ Archived - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案🔥🔥🔥🔥🔥
 
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
