@@ -136,7 +136,7 @@
                 "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15754,
+                "stars": 15755,
                 "topics": [
                   "android",
                   "kotlin"
@@ -225,7 +225,7 @@
                 "open_issues": 86,
                 "owner": "android",
                 "repo": "android-ktx",
-                "stars": 7409,
+                "stars": 7410,
                 "topics": [
                   "android",
                   "kotlin",
@@ -923,7 +923,7 @@
                 "open_issues": 83,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10025,
+                "stars": 10027,
                 "topics": [
                   "android",
                   "compose-multiplatform",
@@ -956,7 +956,7 @@
                 "open_issues": 83,
                 "owner": "InsertKoinIO",
                 "repo": "koin",
-                "stars": 10025,
+                "stars": 10027,
                 "topics": [
                   "android",
                   "compose-multiplatform",
@@ -1175,7 +1175,7 @@
                 "open_issues": 100,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4642,
+                "stars": 4643,
                 "topics": [
                   "android",
                   "http-client",
@@ -1330,7 +1330,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7014,
+                "stars": 7015,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -1490,11 +1490,11 @@
                 "id": 71729669,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T00:42:42Z",
-                "open_issues": 173,
+                "last_commit": "2026-11-10T22:21:44Z",
+                "open_issues": 176,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7109,
+                "stars": 7114,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -1703,7 +1703,7 @@
                 "open_issues": 10,
                 "owner": "grandstaish",
                 "repo": "paperparcel",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "android",
                   "android-parcelable",
@@ -1732,11 +1732,11 @@
                 "id": 97827246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T09:44:48Z",
-                "open_issues": 312,
+                "last_commit": "2026-11-10T19:32:54Z",
+                "open_issues": 316,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5951,
+                "stars": 5952,
                 "topics": [
                   "cbor",
                   "json",
@@ -1808,7 +1808,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36835,
+            "stars": 36837,
             "topics": [
               "android",
               "shadowsocks"
@@ -1832,7 +1832,7 @@
             "open_issues": 0,
             "owner": "chrisbanes",
             "repo": "tivi",
-            "stars": 6716,
+            "stars": 6717,
             "topics": [
               "android-application",
               "jetpack-compose",
@@ -1860,7 +1860,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4031,
+            "stars": 4030,
             "topics": [
               "android",
               "android-development",
@@ -1952,11 +1952,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T21:52:47Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-11T00:33:41Z",
+            "open_issues": 10,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3260,
+            "stars": 3264,
             "topics": [
               "android",
               "audiobook-player",
@@ -2039,8 +2039,8 @@
             "id": 7964711,
             "language": "Kotlin",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-08T21:54:03Z",
-            "open_issues": 355,
+            "last_commit": "2026-11-11T01:18:55Z",
+            "open_issues": 354,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
             "stars": 2457,
@@ -2405,7 +2405,7 @@
             "open_issues": 52,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Camera",
-            "stars": 808,
+            "stars": 807,
             "topics": [
               "android",
               "camera",
@@ -2647,7 +2647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:11:38.501Z",
+    "last_updated": "2026-11-11T01:59:21.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
