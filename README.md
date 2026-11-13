@@ -102,7 +102,7 @@
 
 #### Fragment
 
-* [FragNav](https://github.com/ncapdevi/FragNav) ⭐ 1,493 | 🐛 36 | 🌐 Kotlin | 📅 2022-04-05 - 管理多个fragment 栈的库 🔥🔥🔥🔥
+* [FragNav](https://github.com/ncapdevi/FragNav) ⭐ 1,492 | 🐛 36 | 🌐 Kotlin | 📅 2022-04-05 - 管理多个fragment 栈的库 🔥🔥🔥🔥
 
 #### 动画
 
@@ -113,7 +113,7 @@
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,046 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
+* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,045 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -122,7 +122,7 @@
 
 #### Toolbar
 
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,474 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) ⭐ 1,473 | 🐛 12 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 toolbar 实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -249,8 +249,8 @@
 
 ### 依赖注入
 
-* [koin](https://github.com/Ekito/koin) ⭐ 10,027 | 🐛 83 | 🌐 Kotlin | 📅 2026-11-06 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) ⭐ 10,027 | 🐛 83 | 🌐 Kotlin | 📅 2026-11-06 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,027 | 🐛 84 | 🌐 Kotlin | 📅 2026-11-06 - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) ⭐ 10,027 | 🐛 84 | 🌐 Kotlin | 📅 2026-11-06 - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥🔥🔥
 * [kotterknife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 431 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
@@ -270,7 +270,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,644 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-11-11 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,791 | 🐛 43 | 🌐 Kotlin | 📅 2026-11-12 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -303,7 +303,7 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,114 | 🐛 174 | 🌐 Kotlin | 📅 2026-11-11 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,116 | 🐛 171 | 🌐 Kotlin | 📅 2026-11-12 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 844 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
 * [RxPay](https://github.com/Cuieney/RxPay) ⭐ 579 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
@@ -317,7 +317,7 @@
 
 ### 序列化
 
-* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,952 | 🐛 311 | 🌐 Kotlin | 📅 2026-11-11 - 跨平台序列化库。🔥🔥🔥🔥🔥
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,954 | 🐛 310 | 🌐 Kotlin | 📅 2026-11-12 - 跨平台序列化库。🔥🔥🔥🔥🔥
 
 ### 测试
 
@@ -357,13 +357,13 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,267 | 🐛 10 | 🌐 Kotlin | 📅 2026-11-12 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,270 | 🐛 10 | 🌐 Kotlin | 📅 2026-11-12 - 有声电子书阅读器 🔥🔥🔥🔥
 
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,717 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,716 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
 * [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) ⚠️ Archived - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
 
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,457 | 🐛 352 | 🌐 Kotlin | 📅 2026-11-11 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) ⭐ 2,457 | 🐛 351 | 🌐 Kotlin | 📅 2026-11-12 - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
 
 * [susi\_android](https://github.com/fossasia/susi_android) ⚠️ Archived - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案🔥🔥🔥🔥🔥
 
@@ -375,7 +375,7 @@
     </div>
    </details>
 
-* [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,105 | 🐛 32 | 🌐 Kotlin | 📅 2026-11-11 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
+* [CatchUp](https://github.com/hzsweers/CatchUp) ⭐ 2,104 | 🐛 32 | 🌐 Kotlin | 📅 2026-11-12 - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
   <div style="display:flex;">
@@ -454,7 +454,7 @@
       </div>
     </details>
 
-* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 873 | 🐛 72 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
+* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) ⭐ 874 | 🐛 72 | 🌐 Kotlin | 📅 2024-06-11 - 便签 APP🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -549,8 +549,8 @@
 
 [back to top](#readme)
 
-* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,895 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
+* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) ⭐ 1,894 | 🐛 54 | 🌐 Kotlin | 📅 2018-05-23 - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥🔥
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
