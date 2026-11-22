@@ -1199,7 +1199,7 @@
                 "id": 86003479,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T16:22:37Z",
+                "last_commit": "2026-11-21T17:11:20Z",
                 "open_issues": 44,
                 "owner": "http4k",
                 "repo": "http4k",
@@ -1330,7 +1330,7 @@
                 "open_issues": 28,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7014,
+                "stars": 7013,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -1491,7 +1491,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T19:03:54Z",
-                "open_issues": 161,
+                "open_issues": 165,
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7117,
@@ -1808,7 +1808,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36846,
+            "stars": 36847,
             "topics": [
               "android",
               "shadowsocks"
@@ -1952,11 +1952,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T22:39:18Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-21T22:04:59Z",
+            "open_issues": 8,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3295,
+            "stars": 3300,
             "topics": [
               "android",
               "audiobook-player",
@@ -1986,7 +1986,7 @@
             "open_issues": 333,
             "owner": "TwidereProject",
             "repo": "Twidere-Android",
-            "stars": 2714,
+            "stars": 2713,
             "topics": [
               "android",
               "fanfou",
@@ -2043,7 +2043,7 @@
             "open_issues": 357,
             "owner": "anthonycr",
             "repo": "Lightning-Browser",
-            "stars": 2458,
+            "stars": 2460,
             "topics": [
               "android",
               "browser",
@@ -2647,7 +2647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:16:56.104Z",
+    "last_updated": "2026-11-22T02:21:26.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
