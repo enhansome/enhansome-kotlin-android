@@ -113,7 +113,7 @@
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,044 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
+* [transitioner](https://github.com/dev-labs-bg/transitioner) ⭐ 2,043 | 🐛 0 | 🌐 Kotlin | 📅 2020-04-24 - 动态、简单的View场景切换动画🔥🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -145,7 +145,7 @@
     <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
    </details>
 
-* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) ⭐ 1,368 | 🐛 4 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥
+* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) ⭐ 1,367 | 🐛 4 | 🌐 Kotlin | 📅 2022-09-22 - Yalantis出品，必属精品！炫酷 多选器实现🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -178,7 +178,7 @@
 
 #### 进度条
 
-* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,416 | 🐛 3 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
+* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) ⭐ 1,415 | 🐛 3 | 🌐 Kotlin | 📅 2020-07-09 - 带有弹出式气泡的滑块进度条🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -198,7 +198,7 @@
 
 #### 指示器
 
-* [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) ⭐ 1,583 | 🐛 8 | 🌐 Kotlin | 📅 2023-05-23 -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器🔥🔥🔥🔥
+* [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) ⭐ 1,582 | 🐛 8 | 🌐 Kotlin | 📅 2023-05-23 -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -264,13 +264,13 @@
 
 ### 数据库
 
-* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,841 | 🐛 48 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
-* [requery](https://github.com/requery/requery) ⭐ 3,120 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,840 | 🐛 48 | 🌐 Kotlin | 📅 2026-08-23 - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+* [requery](https://github.com/requery/requery) ⭐ 3,119 | 🐛 170 | 🌐 Java | 📅 2026-02-09 - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
 
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,645 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - 最简单的 HTTP 网络库 🔥🔥🔥🔥🔥
-* [http4k](https://github.com/http4k/http4k) ⭐ 2,792 | 🐛 45 | 🌐 Kotlin | 📅 2026-11-25 - HTTP 工具包 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) ⭐ 2,793 | 🐛 45 | 🌐 Kotlin | 📅 2026-11-26 - HTTP 工具包 🔥🔥🔥🔥
 
 ### 日志
 
@@ -279,7 +279,7 @@
 
 ### JSON
 
-* [klaxon](https://github.com/cbeust/klaxon) ⭐ 1,860 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-04 - json 解析器🔥🔥🔥🔥
+* [klaxon](https://github.com/cbeust/klaxon) ⭐ 1,859 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-04 - json 解析器🔥🔥🔥🔥
 
 ### 函数式编程
 
@@ -303,10 +303,10 @@
 
 ### 工具
 
-* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,126 | 🐛 165 | 🌐 Kotlin | 📅 2026-11-25 - 静态代码分析工具 🔥🔥🔥🔥🔥
+* [detekt](https://github.com/arturbosch/detekt) ⭐ 7,126 | 🐛 163 | 🌐 Kotlin | 📅 2026-11-26 - 静态代码分析工具 🔥🔥🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) ⭐ 984 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-16 - 类型安全的时间库 🔥🔥🔥
 * [debug-bottle](https://github.com/kiruto/debug-bottle) ⭐ 844 | 🐛 5 | 🌐 Kotlin | 📅 2018-03-15 - Android 开发调试工具 🔥🔥🔥
-* [RxPay](https://github.com/Cuieney/RxPay) ⭐ 579 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
+* [RxPay](https://github.com/Cuieney/RxPay) ⭐ 580 | 🐛 9 | 🌐 Kotlin | 📅 2019-09-20 - 一个集成支付宝微信的支付工具  🔥🔥🔥
 * [fakeit](https://github.com/moove-it/fakeit) ⭐ 539 | 🐛 18 | 🌐 Kotlin | 📅 2021-05-10 - 假数据生成库 🔥🔥
 
 ### 其他
@@ -327,7 +327,7 @@
 
 [back to top](#readme)
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,858 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) ⭐ 36,856 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-09 - shadowsocks 客户端 🔥🔥🔥🔥🔥
 
 * [tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived - 电视节目跟踪 APP 🔥🔥🔥🔥🔥
 
@@ -357,7 +357,7 @@
     </div>
    </details>
 
-* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,310 | 🐛 5 | 🌐 Kotlin | 📅 2026-11-25 - 有声电子书阅读器 🔥🔥🔥🔥
+* [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,315 | 🐛 5 | 🌐 Kotlin | 📅 2026-11-27 - 有声电子书阅读器 🔥🔥🔥🔥
 
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) ⭐ 2,712 | 🐛 333 | 🌐 Kotlin | 📅 2023-02-05 - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥🔥
 
@@ -391,7 +391,7 @@
     </div>
    </details>
 
-* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,645 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
+* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) ⭐ 1,644 | 🐛 13 | 🌐 Kotlin | 📅 2018-06-06 - 数据来源自开眼视频的客户端🔥🔥🔥🔥
 
   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -553,4 +553,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

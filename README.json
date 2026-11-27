@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "bufferapp",
                 "repo": "android-clean-architecture-boilerplate",
-                "stars": 3674,
+                "stars": 3673,
                 "topics": [
                   "android",
                   "android-application",
@@ -136,7 +136,7 @@
                 "open_issues": 243,
                 "owner": "Kotlin",
                 "repo": "anko",
-                "stars": 15750,
+                "stars": 15751,
                 "topics": [
                   "android",
                   "kotlin"
@@ -225,7 +225,7 @@
                 "open_issues": 86,
                 "owner": "android",
                 "repo": "android-ktx",
-                "stars": 7406,
+                "stars": 7405,
                 "topics": [
                   "android",
                   "kotlin",
@@ -438,7 +438,7 @@
                     "open_issues": 0,
                     "owner": "dev-labs-bg",
                     "repo": "transitioner",
-                    "stars": 2044,
+                    "stars": 2043,
                     "topics": [
                       "android",
                       "android-library",
@@ -567,7 +567,7 @@
                     "open_issues": 4,
                     "owner": "Yalantis",
                     "repo": "Multi-Selection",
-                    "stars": 1368,
+                    "stars": 1367,
                     "topics": [
                       "android",
                       "animation",
@@ -689,7 +689,7 @@
                     "open_issues": 3,
                     "owner": "Ramotion",
                     "repo": "fluid-slider-android",
-                    "stars": 1416,
+                    "stars": 1415,
                     "topics": [
                       "android",
                       "kotlin",
@@ -758,7 +758,7 @@
                     "open_issues": 8,
                     "owner": "wching",
                     "repo": "Android-Indefinite-Pager-Indicator",
-                    "stars": 1583,
+                    "stars": 1582,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:07.497Z"
@@ -1114,7 +1114,7 @@
                 "open_issues": 48,
                 "owner": "agrosner",
                 "repo": "DBFlow",
-                "stars": 4841,
+                "stars": 4840,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:11:07.497Z"
@@ -1135,7 +1135,7 @@
                 "open_issues": 170,
                 "owner": "requery",
                 "repo": "requery",
-                "stars": 3120,
+                "stars": 3119,
                 "topics": [
                   "android",
                   "java",
@@ -1199,11 +1199,11 @@
                 "id": 86003479,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T08:38:31Z",
+                "last_commit": "2026-11-26T23:37:47Z",
                 "open_issues": 45,
                 "owner": "http4k",
                 "repo": "http4k",
-                "stars": 2792,
+                "stars": 2793,
                 "topics": [
                   "http",
                   "http-client",
@@ -1299,7 +1299,7 @@
                 "open_issues": 95,
                 "owner": "cbeust",
                 "repo": "klaxon",
-                "stars": 1860,
+                "stars": 1859,
                 "topics": [
                   "json",
                   "kotlin"
@@ -1490,8 +1490,8 @@
                 "id": 71729669,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T03:34:38Z",
-                "open_issues": 165,
+                "last_commit": "2026-11-26T21:01:08Z",
+                "open_issues": 163,
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7126,
@@ -1577,7 +1577,7 @@
                 "open_issues": 9,
                 "owner": "Cuieney",
                 "repo": "RxPay",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "kotlin",
                   "kotlin-android",
@@ -1808,7 +1808,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36858,
+            "stars": 36856,
             "topics": [
               "android",
               "shadowsocks"
@@ -1832,7 +1832,7 @@
             "open_issues": 0,
             "owner": "chrisbanes",
             "repo": "tivi",
-            "stars": 6713,
+            "stars": 6712,
             "topics": [
               "android-application",
               "jetpack-compose",
@@ -1952,11 +1952,11 @@
             "id": 22558387,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T23:36:13Z",
+            "last_commit": "2026-11-27T04:16:34Z",
             "open_issues": 5,
             "owner": "PaulWoitaschek",
             "repo": "Voice",
-            "stars": 3310,
+            "stars": 3315,
             "topics": [
               "android",
               "audiobook-player",
@@ -2129,7 +2129,7 @@
             "open_issues": 13,
             "owner": "antoniolg",
             "repo": "Bandhook-Kotlin",
-            "stars": 1848,
+            "stars": 1849,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:07.497Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 13,
             "owner": "LRH1993",
             "repo": "Eyepetizer-in-Kotlin",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "eyepetizer",
               "ijkplayer",
@@ -2647,7 +2647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:12:17.187Z",
+    "last_updated": "2026-11-27T04:19:52.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源",
